@@ -6,4 +6,4 @@ jsem v Curychu.
 
 Tady je fotka.
 
-![Alt Text](images/2024-08-18-selfie.jpg)
+![Alt Text](posts/images/2024-08-18-selfie.jpg)
