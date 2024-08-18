@@ -47,6 +47,6 @@ h1 { border-bottom:1px dotted grey }
 
 ### Blog 2024
 
-* 2024/08/18: [Švýcarsko](posts/2024-08-18-svycarsko.md) {#weeklyblog}
+* 2024/08/18: [Švýcarsko](blog-posts/2024-08-18-svycarsko.md) {#weeklyblog}
    
 </div>
