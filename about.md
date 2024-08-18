@@ -1,7 +1,7 @@
+## Kdo jsem já?
+
+Ahoj, jsem Michal. A studuju v Curychu magistra na technické univerzitě ETH. Toto je můj blog o mé cestě a zážitcích.
+
 ## About This Site
 
-This blog is a sample blog site using [casual-markdown-blog](https://github.com/casualwriter/casual-markdown-blog).
-
-## About Casualwriter
-
-like all simple things, working on simple, lightweight, independence, portable solution.
+This blog is made using markdown files with a template from [casual-markdown-blog](https://github.com/casualwriter/casual-markdown-blog).

@@ -35,14 +35,13 @@ h1 { border-bottom:1px dotted grey }
 > date:2022/09/27, tags: `#markdown`
 > 
 > build blog site by markdown files in minutes.
-> host on github, or other static web hosting  
-
-## [Markdown as blog](20220820-markdown-as-blog.md)
-> ![build blog site by markdown files](campo01.jpg)
-> date:2022/08/20, tags: `#markdown`
-> 
-> build blog site by markdown files in minutes.
 > host on github, or other static web hosting   -->
+
+## [Švýcarsko](blog-posts/2024-08-18-svycarsko.md)
+> ![Švýcarsko](images/2024-08-18-selfie.jpg)
+> date:2024/08/18, tags: `#weeklyblog`
+> 
+> První blog o prvních dnech v novém městě.
 
 
 # Archives
