@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "531621d07eb924d4",
+        "id": "dc470f9c14603b6f",
         "type": "tabs",
         "children": [
           {
-            "id": "bcdfe07c02d8b39d",
+            "id": "c8ddcf90f736fab3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcdfe07c02d8b39d",
+  "active": "c8ddcf90f736fab3",
   "lastOpenFiles": [
+    "2024-08-18-svycarsko.md",
     "2024-08-18-selfie.jpg",
     "IMG_20240812_100641.jpg",
-    "2024-08-18-svycarsko.md",
     "Welcome.md"
   ]
 }

@@ -19,7 +19,7 @@ Ubytován jsem u 83leté stařenky, která má dva pokoje navíc, tak v nich žd
 
 <img src="images/2024-08-18-smiley.jpg" alt="smiley" height="400"/>
 ## Zürich
-Město, do kterého jsem se teď přestěhoval je jedno z nejbohatších na světě: je tu hromada banek a luxusních obchodů. Taky tu na každém rohu parkují drahá auta, až si z toho oči můžu vykoukat. To s sebou nese i hodně nevýhod. Kromě supermarketů je tu všechno hrozně drahé, jídlo v restauraci se těžko dostane pod 500 Kč a kebab na stánku je za tak 250. Ale tak proč si nevařit doma, to není žádný problém.
+Město, do kterého jsem se teď přestěhoval je jedno z nejbohatších na světě: je tu hromada bank a luxusních obchodů. Taky tu na každém rohu parkují drahá auta, až si z toho oči můžu vykoukat. To s sebou nese i hodně nevýhod. Kromě supermarketů je tu všechno hrozně drahé, jídlo v restauraci se těžko dostane pod 500 Kč a kebab na stánku je za tak 250. Ale tak proč si nevařit doma, to není žádný problém.
 
 <img src="images/2024-08-18-street.jpg" alt="street" height="400"/>
 
