@@ -5,10 +5,11 @@ subtitle   : Simplicity is the key.
 nav-group  : featured, new-3, tags, months
 nav-width  : 200px
 css-header : background:linear-gradient(to bottom right, #06c, #fc0); color:white
+theme      : dark
 menu       : 
    Home    : michaltesnar.github.io
-   github  : https://github.com/MichalTesnar
-   Dark    : javascript:darkmode()
+   GitHub  : https://github.com/MichalTesnar
+   # Dark    : javascript:darkmode()
    About   : ?page=about.md
 -----------------------------------------------------------------------------
 <style comment="additional style">
@@ -17,11 +18,12 @@ menu       :
 #right-panel { left: calc({{nav-width}} + 20px) }
 h1 { border-bottom:1px dotted grey }
 .nav-post a  { color: teal }
-.nav-tag  a  { color: #06c }
+.nav-tag  a  { color: green }
 .nav-month a { color: grey }
-.post-date   { font-size:12px; font-weight:400; }
-.post-title  { font-size:16px; color:#333 }
-.post-tags   { left-margin:20px; padding:4px; font-size:10px; color:green; font-weight:400 }
+.post-date   { font-size:10px; color:#aaa }
+.post-title  { font-size:16px; }
+.post-tags   { left-margin:20px; padding:4px; font-size:10px; color:green }
+#md-post a { border-bottom:1px dotted grey }
 </style>
 
 <div id="md-post">
