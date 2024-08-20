@@ -53,6 +53,6 @@ h1 { border-bottom:1px dotted grey }
 ## Nikolčino náhodně se objevující blog
 
 * 2024/08/18: [Tunisko: Výlet k majáku](blog-posts/tunisko-majak.md) {#nikolka}
-* 2024/08/16: [Švýcarsko](blog-posts/tunisko-all-inclusive.md) {#nikolka}
+* 2024/08/16: [Tunisko: All Inclusive](blog-posts/tunisko-all-inclusive.md) {#nikolka}
    
 </div>
