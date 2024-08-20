@@ -46,8 +46,13 @@ h1 { border-bottom:1px dotted grey }
 
 # Archives
 
-### Blog 2024
+## Blog 2024
 
 * 2024/08/18: [Švýcarsko](blog-posts/2024-08-18-svycarsko.md) {#weeklyblog}
+
+## Nikolčino náhodně se objevující blog
+
+* 2024/08/18: [Tunisko: Výlet k majáku](blog-posts/tunisko-majak.md) {#nikolka}
+* 2024/08/16: [Švýcarsko](blog-posts/tunisko-all-inclusive.md) {#nikolka}
    
 </div>

@@ -1,0 +1,12 @@
+# Tunisko: Výlet k majáku
+
+Dnes jsme si s Vojtou naplánovali výlet. Nějaké výlety po ostrově pořádá cestovka, ale jsou celkem drahé na to že jsou asi tak kilometr a půl od hotelu. Nejsme žádný máčky a tak jsme se rozhodli vydat se na cestu k blízkému majáku, který je vzdušnou čarou od hotelu asi kilometr. Po koupacím dopoledni, obědu, kde jsme se zas přejedli (ale jen trošku) a asi hodinovém šlofíku (dobře, možná byl trochu delší) jsme se začli chystat na cestu. Jako správní turisté jsme si zabalili to nejnutnější do malého Decathlon batůžku a se staženými offline mapami už nám zbývalo jen směnit pár eur na denáry na recepci. Navíc jsme se na cestu barevně sladili a já si dle všech doporučení vzala dlouhou sukni a košili s dlouhým rukávem, neb jsme si nebyli úplně jistí bezpečností v okolí. Plán je udělat si pěknou fotku u majáku.
+
+Po opuštění areálu jsme byli příjemně překvapeni chodníkem vedoucím vedle vozovky, ale žádný strach, chodníček asi po stopadesáti metrech skončil. Naštěstí zde chodník není potřeba, neboť silnice jsou lemované pruhy pouště. Jak jsme si povšimli už po cestě z letiště, každý si uklízí pouze a jedině svůj pozemek a tudíž je všude hrozný nepořádek. Vedle plechovek, lahví, kusů pravděpodobně nějakých dopravních prostředků a kupodivu celkem malého množství igelitových sáčků jsme nalezli ve stínu poléhávat psi. Potkali jsme jich celkem dost, ale byli příliš vyčerpání vedrem na to aby se pohli. 
+
+Silnice jsou tu v lepším stavu než v Česku a podobně jako my kolem nich chodilo dost místních. Na silnicích vedle sebe jezdí auta, taxíky, autobusy, čtyřkolky a koňské povozy pro turisty, jezdí se tu dosti ukázněně a celkem pomalu, takže jsme se jako chodci cítili bezpečně. Nakonec jsme došli až skoro k majáku, bohužel kolem vedla zeď, s nakreslenými značkami pro zákaz vstupu, zákaz zastavení s autem a zákaz focení. Obávali jsme se, že bychom se blíž nedostali ani z druhé strany kam bychom museli dlouho jít a tak jsme to otočili, s tím že si na hotelu lépe prohlédneme mapu a kdyžtak se tam ještě vrátíme. 
+
+Po cestě zpátky se nám postupně začli propocovat košile. Poznatky z cest: 1) velbloudi a koně se parkují kdekoliv kde nestojí dům, 2) nejvíce oblečení na sobě mají muslimky a hned po nich turisté, většina místních žen tu chodí v triku a kraťasech.
+Fotku s majákem ani jak jsme spolu sladění nemám, protože jsme ze sebe okamžitě všechno sundali a dali to větrat a na focení jsme zapomněli.
+
+<img src="images/majak.jpeg" alt="selfie" height="600"/>
