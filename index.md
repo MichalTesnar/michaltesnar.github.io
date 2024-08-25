@@ -37,7 +37,7 @@ h1 { border-bottom:1px dotted grey }
 > build blog site by markdown files in minutes.
 > host on github, or other static web hosting   -->
 
-## [Švýcarsko](blog-posts/2024-08-25-vylety.md)
+## [Výlety](blog-posts/2024-08-25-vylety.md)
 > <img src="images/2024-08-25-uetliberg.jpg" alt="uetliberg" width="400"/>
 > date: 2024/08/25, tags: `#weeklyblog`
 > 
