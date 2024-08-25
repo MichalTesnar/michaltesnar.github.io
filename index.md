@@ -37,11 +37,11 @@ h1 { border-bottom:1px dotted grey }
 > build blog site by markdown files in minutes.
 > host on github, or other static web hosting   -->
 
-## [Švýcarsko](blog-posts/2024-08-18-svycarsko.md)
-> <img src="images/2024-08-18-selfie.jpg" alt="selfie" width="400"/>
-> date:2024/08/18, tags: `#weeklyblog`
+## [Švýcarsko](blog-posts/2024-08-25-vylety.md)
+> <img src="images/2024-08-25-uetliberg.jpg" alt="uetliberg" width="400"/>
+> date: 2024/08/25, tags: `#weeklyblog`
 > 
-> První blog o prvních dnech v novém městě.
+> Co jsem všechno zatím ve Švajcu stihl navštívit.
 
 
 # Archives
@@ -49,6 +49,7 @@ h1 { border-bottom:1px dotted grey }
 ## Blog 2024
 
 * 2024/08/18: [Švýcarsko](blog-posts/2024-08-18-svycarsko.md) {#weeklyblog}
+* 2024/08/25: [Výlety](blog-posts/2024-08-25-vylety.md) {#weeklyblog}
 
 ## Nikolčino náhodně se objevující blog
 

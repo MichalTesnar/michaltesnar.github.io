@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8ddcf90f736fab3",
+            "id": "ad1acad636ab4808",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-08-18-svycarsko.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebf00abe3b045b41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tunisko-majak.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fc8f9e133099e8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tunisko-majak.md",
+                "file": "2024-08-25-vylety.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tunisko-majak.md",
+                "file": "2024-08-25-vylety.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tunisko-majak.md",
+                "file": "2024-08-25-vylety.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tunisko-majak.md"
+                "file": "2024-08-25-vylety.md"
               }
             }
           }
@@ -171,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fc8f9e133099e8f",
+  "active": "ad1acad636ab4808",
   "lastOpenFiles": [
-    "tunisko-all-inclusive.md",
-    "tunisko-majak.md",
     "2024-08-18-svycarsko.md",
+    "2024-08-25-vylety.md",
+    "tunisko-majak.md",
+    "Lopatka v Gymu.md",
+    "tunisko-all-inclusive.md",
     "2024-08-18-selfie.jpg",
     "IMG_20240812_100641.jpg",
     "Welcome.md"
