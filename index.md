@@ -30,11 +30,11 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-## [Výlety](blog-posts/2024-08-25-vylety.md)
-> <img src="images/2024-08-25-uetliberg.jpg" alt="uetliberg" width="400"/>
-> date: 2024/08/25, tags: `#weeklyblog`
+## [Návštěva Groningenu](blog-posts/2024-09-02-groningen.md)
+<!-- > <img src="images/2024-08-25-uetliberg.jpg" alt="uetliberg" width="400"/> -->
+> date: 2024/09/02 tags: `#weeklyblog`
 > 
-> Co jsem všechno zatím ve Švajcu stihl navštívit.
+> Navštívil jsem město, které mi bylo 3 roky domovem, ale něco se v něm změnilo.
 
 
 # Archives
@@ -43,6 +43,7 @@ h1 { border-bottom:1px dotted grey }
 
 * 2024/08/18: [Švýcarsko](blog-posts/2024-08-18-svycarsko.md) {#weeklyblog}
 * 2024/08/25: [Výlety](blog-posts/2024-08-25-vylety.md) {#weeklyblog}
+* 2024/09/02: [Návštěva Groningenu](blog-posts/2024-09-02-groningen.md) {#weeklyblog}
 
 ## Nikolčino náhodně se objevující blog
 
