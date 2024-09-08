@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------
 github     : https://github.com/MichalTesnar
 title      : Michalovo Blog
-subtitle   : Momentálně v Curychu
+subtitle   : Momentálně jsem v Curychu
 nav-group  : featured, new-3, tags, months
 nav-width  : 200px
 css-header : background:linear-gradient(to bottom right, #06c, #fc0); color:white
@@ -30,11 +30,11 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-## [Návštěva Groningenu](blog-posts/2024-09-02-groningen.md)
+## [Doručil jsem 3 pizzy a jednu Fantu](blog-posts/2024-09-08-pizza.md)
 <!-- > <img src="images/2024-08-25-uetliberg.jpg" alt="uetliberg" width="400"/> -->
-> date: 2024/09/02 tags: `#weeklyblog`
+> date: 2024/09/08 tags: `#weeklyblog`
 > 
-> Navštívil jsem město, které mi bylo 3 roky domovem, ale něco se v něm změnilo.
+> Aneb první reálný a beznadějný pokus najít si práci.
 
 
 # Archives
@@ -44,6 +44,7 @@ h1 { border-bottom:1px dotted grey }
 * 2024/08/18: [Švýcarsko](blog-posts/2024-08-18-svycarsko.md) {#weeklyblog}
 * 2024/08/25: [Výlety](blog-posts/2024-08-25-vylety.md) {#weeklyblog}
 * 2024/09/02: [Návštěva Groningenu](blog-posts/2024-09-02-groningen.md) {#weeklyblog}
+* 2024/09/08: [Doručil jsem 3 pizzy a jednu Fantu](blog-posts/2024-09-08-pizza.md) {#weeklyblog}
 
 ## Nikolčino náhodně se objevující blog
 
