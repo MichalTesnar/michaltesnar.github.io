@@ -30,11 +30,12 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-## [Doručil jsem 3 pizzy a jednu Fantu](blog-posts/2024-09-08-pizza.md)
+## [Nový začátek](blog-posts/2024-09-17-novy-zacatek)
 <!-- > <img src="images/2024-08-25-uetliberg.jpg" alt="uetliberg" width="400"/> -->
-> date: 2024/09/08 tags: `#weeklyblog`
+<img src="images/2024-09-17-czech-group.jpg" alt="czech-group" width="400"/>
+> date: 2024/09/17 tags: `#weeklyblog`
 > 
-> Aneb první reálný a beznadějný pokus najít si práci.
+> Práce zatím stále nemám, ale zato začala škola a je okolo mě mnoho zajímavých lidí.
 
 
 # Archives
@@ -45,6 +46,7 @@ h1 { border-bottom:1px dotted grey }
 * 2024/08/25: [Výlety](blog-posts/2024-08-25-vylety.md) {#weeklyblog}
 * 2024/09/02: [Návštěva Groningenu](blog-posts/2024-09-02-groningen.md) {#weeklyblog}
 * 2024/09/08: [Doručil jsem 3 pizzy a jednu Fantu](blog-posts/2024-09-08-pizza.md) {#weeklyblog}
+* 2024/09/17: [Nový začátek](blog-posts/2024-09-17-novy-zacatek) {#weeklyblog}
 
 ## Nikolčino náhodně se objevující blog
 
