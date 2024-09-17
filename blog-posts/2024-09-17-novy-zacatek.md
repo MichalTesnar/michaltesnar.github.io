@@ -1,3 +1,5 @@
+# Nový začátek
+
 Vážená veřejnosti, milý čtenáři!
 
 Dnes je úterý 17. září a v Curychu prší, zdaleka ale ne tak moc jak v České republice, tak na vás myslím, a doufám, že jste všichni v pořádku. Nejlepší moment zavřít se doma, ohřát kakao nebo postavit vodu na čaj, přečíst si nějakou knížku, nebo se podívat na film. Mně tady tento týden konečně začal semestr, nuda končí a práce začíná.
