@@ -30,7 +30,7 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-## [Nový začátek](blog-posts/2024-09-17-novy-zacatek)
+## [Nový začátek](blog-posts/2024-09-17-novy-zacatek.md)
 <!-- > <img src="images/2024-08-25-uetliberg.jpg" alt="uetliberg" width="400"/> -->
 > <img src="images/2024-09-17-czech-group.jpg" alt="czech-group" width="400"/>
 > date: 2024/09/17 tags: `#weeklyblog`
