@@ -1,3 +1,5 @@
+Note: Try to show vulnerability at the beginning. Later when talking personally ask questions and try to understand the individuals.
+
 Hey, my name is Michael. I graduated from this school 3 years ago. And it is my outermost pleasure to stand here with you in this moment again, to present you this brand new event called "Study Without Borders". I have studied abroad for a bit now, and I was really looking forward to coming back here. Cause I have a strong calling to talk to you all, and I was looking to do it since August.
 
 Let me tell you why.

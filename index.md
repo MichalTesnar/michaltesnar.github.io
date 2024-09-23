@@ -30,18 +30,19 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-## [Nový začátek](blog-posts/2024-09-17-novy-zacatek.md)
+## 2024/09/23: [Jak jsem špatně pochopil akademickou sféru: Poznatky z přestupu na ETH Zurich](blog-posts/2024-09-23-eth-review-czech.md) {#weeklyblog}
 <!-- > <img src="images/2024-08-25-uetliberg.jpg" alt="uetliberg" width="400"/> -->
-> <img src="images/2024-09-17-czech-group.jpg" alt="czech-group" width="400"/>
-> date: 2024/09/17 tags: `#weeklyblog`
+<!-- > <img src="images/2024-09-17-czech-group.jpg" alt="czech-group" width="400"/> -->
+> date: 2024/09/23 tags: `#weeklyblog`
 > 
-> Práce zatím stále nemám, ale zato začala škola a je okolo mě mnoho zajímavých lidí.
+> Moje poznatky, všechny hezky pohromadě.
 
 
 # Archives
 
 ## Blog 2024
 
+* 2024/09/23: [Jak jsem špatně pochopil akademickou sféru: Poznatky z přestupu na ETH Zurich](blog-posts/2024-09-23-eth-review-czech.md) {#weeklyblog}
 * 2024/08/18: [Švýcarsko](blog-posts/2024-08-18-svycarsko.md) {#weeklyblog}
 * 2024/08/25: [Výlety](blog-posts/2024-08-25-vylety.md) {#weeklyblog}
 * 2024/09/02: [Návštěva Groningenu](blog-posts/2024-09-02-groningen.md) {#weeklyblog}
@@ -52,5 +53,9 @@ h1 { border-bottom:1px dotted grey }
 
 * 2024/08/18: [Tunisko: Výlet k majáku](blog-posts/tunisko-majak.md) {#nikolka}
 * 2024/08/16: [Tunisko: All Inclusive](blog-posts/tunisko-all-inclusive.md) {#nikolka}
+
+## English
+
+* 2024/09/23: [How I Misunderstood Academia: Realizations from Transfer to ETH Zurich](blog-posts/2024-09-23-eth-review-eng.md) {#other}
    
 </div>
