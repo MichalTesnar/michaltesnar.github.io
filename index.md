@@ -30,18 +30,19 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-## 2024/09/23: [Jak jsem špatně pochopil akademickou sféru: Poznatky z přestupu na ETH Zurich](blog-posts/2024-09-23-eth-review-czech.md) {#weeklyblog}
+## 2024/09/29: [Maturita 2.0](blog-posts/2024-09-29-graduation.md) {#weeklyblog}
 <!-- > <img src="images/2024-08-25-uetliberg.jpg" alt="uetliberg" width="400"/> -->
-<!-- > <img src="images/2024-09-17-czech-group.jpg" alt="czech-group" width="400"/> -->
-> date: 2024/09/23 tags: `#weeklyblog`
+> <img src="images/2024-09-29-wojti.jpeg" alt="wojti" height="400"/>
+> date: 2024/09/29 tags: `#weeklyblog`
 > 
-> Moje poznatky, všechny hezky pohromadě.
+> Už nejsem tím, kým jsem byl. Aneb: mám za sebou další maturitu.
 
 
 # Archives
 
 ## Blog 2024
 
+* 2024/09/29: [Maturita 2.0](blog-posts/2024-09-29-graduation.md) {#weeklyblog}
 * 2024/09/23: [Jak jsem špatně pochopil akademickou sféru: Poznatky z přestupu na ETH Zurich](blog-posts/2024-09-23-eth-review-czech.md) {#weeklyblog}
 * 2024/08/18: [Švýcarsko](blog-posts/2024-08-18-svycarsko.md) {#weeklyblog}
 * 2024/08/25: [Výlety](blog-posts/2024-08-25-vylety.md) {#weeklyblog}
