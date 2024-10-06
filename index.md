@@ -30,18 +30,19 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-## 2024/09/29: [Maturita 2.0](blog-posts/2024-09-29-graduation.md) {#weeklyblog}
+## 2024/10/06: [Time Management](blog-posts/2024-10-06-time-management.md) {#weeklyblog}
 <!-- > <img src="images/2024-08-25-uetliberg.jpg" alt="uetliberg" width="400"/> -->
-> <img src="images/2024-09-29-wojti.jpeg" alt="wojti" height="400"/>
-> date: 2024/09/29 tags: `#weeklyblog`
+<!-- > <img src="images/2024-09-29-wojti.jpeg" alt="wojti" height="400"/> -->
+> date: 2024/10/06 tags: `#weeklyblog`
 > 
-> Už nejsem tím, kým jsem byl. Aneb: mám za sebou další maturitu.
+> Pardón, tento týden opravdu nemám čas psát blog.
 
 
 # Archives
 
 ## Blog 2024
 
+* 2024/10/06: [Time Management](blog-posts/2024-10-06-time-management.md) {#weeklyblog}
 * 2024/09/29: [Maturita 2.0](blog-posts/2024-09-29-graduation.md) {#weeklyblog}
 * 2024/09/23: [Jak jsem špatně pochopil akademickou sféru: Poznatky z přestupu na ETH Zurich](blog-posts/2024-09-23-eth-review-czech.md) {#weeklyblog}
 * 2024/08/18: [Švýcarsko](blog-posts/2024-08-18-svycarsko.md) {#weeklyblog}
