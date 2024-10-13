@@ -30,18 +30,18 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-## 13.10.2024: [Sůl a pepř](blog-posts/2024-10-13-salt-and-pepper.md) {#weeklyblog}
+<!-- ## 13.10.2024: [Sůl a pepř](blog-posts/2024-10-13-salt-and-pepper.md) {#weeklyblog}
 <!-- > <img src="images/2024-08-25-uetliberg.jpg" alt="uetliberg" width="400"/> -->
 > date: 13.10.2024 tags: `#weeklyblog`
 > 
-> Sůl a pepř nepatří jen na pizzu.
+> Sůl a pepř nepatří jen na pizzu. -->
 
 
 # Archives
 
 ## Blog 2024
 
-* 13.10.: [Sůl a pepř](blog-posts/2024-10-13-salt-and-pepper.md) {#weeklyblog}
+<!-- * 13.10.: [Sůl a pepř](blog-posts/2024-10-13-salt-and-pepper.md) {#weeklyblog} -->
 * 06.10.: [Time Management](blog-posts/2024-10-06-time-management.md) {#weeklyblog}
 * 29.09.: [Maturita 2.0](blog-posts/2024-09-29-graduation.md) {#weeklyblog}
 * 23.09.: [Jak jsem špatně pochopil akademickou sféru: Poznatky z přestupu na ETH Zurich](blog-posts/2024-09-23-eth-review-czech.md) {#weeklyblog}
