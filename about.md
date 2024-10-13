@@ -6,6 +6,7 @@ Pokud mě chcete kontaktovat osobně, prosím směřujte na email michal.tesnar0
 - [LinkedIn](https://www.linkedin.com/in/michal-tesnar/)
 - [Instagram](https://www.instagram.com/michal_tesnar/)
 - [Facebook](https://www.facebook.com/profile.php?id=100004738217292)
+- [Google Scholar](https://scholar.google.com/citations?user=uDXxG5EAAAAJ&hl=es&oi=ao)
 
 ## About This Site
 
