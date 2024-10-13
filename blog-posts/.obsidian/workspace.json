@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-10-06-time-management.md",
+                "file": "2024-10-13-salt-and-pepper.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-10-06-time-management.md",
+                "file": "2024-10-13-salt-and-pepper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-10-06-time-management.md",
+                "file": "2024-10-13-salt-and-pepper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-10-06-time-management.md"
+                "file": "2024-10-13-salt-and-pepper.md"
               }
             }
           }
@@ -161,13 +161,14 @@
   },
   "active": "eaaee63222a51589",
   "lastOpenFiles": [
-    "2024-09-23-eth-review-czech.md",
-    "2024-10-06-time-management.md",
     "2024-09-29-graduation.md",
+    "2024-10-13-salt-and-pepper.md",
+    "2024-10-06-time-management.md",
+    "jaroska intro.md",
+    "2024-09-23-eth-review-czech.md",
     "2024-09-17-novy-zacatek.md",
     "2024-09-23-eth-review-eng.md",
     "tunisko-all-inclusive.md",
-    "jaroska intro.md",
     "2024-09-02-groningen.md",
     "2024-09-17-rozhozenost.md",
     "2024-09-08-pizza.md",
