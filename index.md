@@ -30,17 +30,18 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-## 2024/10/13: [Sůl a pepř](blog-posts/2024-10-13-salt-and-pepper.md) {#weeklyblog}
+## 2024/10/20: [Svět je malý](blog-posts/2024-10-20-coincidences.md) {#weeklyblog}
 <!-- > <img src="images/2024-08-25-uetliberg.jpg" alt="uetliberg" width="400"/> -->
-> date: 2024/10/13 tags: `#weeklyblog`
+> date: 2024/10/20 tags: `#weeklyblog`
 > 
-> Sůl a pepř nepatří jen na pizzu.
+> a o náhody tu není nouze.
 
 
 # Archives
 
 ## Blog 2024
 
+* 2024/10/20: [Svět je malý](blog-posts/2024-10-20-coincidences.md) {#weeklyblog}
 * 2024/10/13: [Sůl a pepř](blog-posts/2024-10-13-salt-and-pepper.md) {#weeklyblog}
 * 2024/10/06: [Time Management](blog-posts/2024-10-06-time-management.md) {#weeklyblog}
 * 2024/09/29: [Maturita 2.0](blog-posts/2024-09-29-graduation.md) {#weeklyblog}
