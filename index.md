@@ -31,7 +31,7 @@ h1 { border-bottom:1px dotted grey }
 # Featured
 
 ## 2024/11/06: [Další návštěva](blog-posts/2024-11-06-uxue-visit.md) {#weeklyblog}
-> <img src="images/2024-10-29-mom2.jpg" alt="uetliberg" width="400"/>
+<!-- > <img src="images/2024-10-29-mom2.jpg" alt="uetliberg" width="400"/> -->
 > date: 2024/11/06 tags: `#weeklyblog`
 > 
 > A i tahle byla moc moc fajn.
