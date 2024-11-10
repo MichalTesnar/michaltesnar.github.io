@@ -30,17 +30,18 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-## 2024/11/06: [Další návštěva](blog-posts/2024-11-06-uxue-visit.md) {#weeklyblog}
+## 2024/11/10: [Kde domov můj!](blog-posts/2024-11-10-chemlab.md) {#weeklyblog}
 <!-- > <img src="images/2024-10-29-mom2.jpg" alt="uetliberg" width="400"/> -->
-> date: 2024/11/06 tags: `#weeklyblog`
+> date: 2024/11/10 tags: `#weeklyblog`
 > 
-> A i tahle byla moc moc fajn.
+> Taky tady fakt bory nešumí.
 
 
 # Archives
 
 ## Blog 2024
 
+* 2024/11/10: [Kde domov můj!](blog-posts/2024-11-10-chemlab.md) {#weeklyblog}
 * 2024/11/06: [Další návštěva](blog-posts/2024-11-06-uxue-visit.md) {#weeklyblog}
 * 2024/10/29: [Meine Muttersprache is Tschechisch](blog-posts/2024-10-29-muttersprache.md) {#weeklyblog}
 * 2024/10/13: [Sůl a pepř](blog-posts/2024-10-13-salt-and-pepper.md) {#weeklyblog}
