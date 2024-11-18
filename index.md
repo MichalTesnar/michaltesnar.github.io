@@ -30,17 +30,18 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-## 2024/11/10: [Kde domov můj!](blog-posts/2024-11-10-chemlab.md) {#weeklyblog}
+* 2024/11/18: [Detox od dopamínu](blog-posts/2024-11-17-mid-semester-review-cz) {#weeklyblog}
 <!-- > <img src="images/2024-10-29-mom2.jpg" alt="uetliberg" width="400"/> -->
 > date: 2024/11/10 tags: `#weeklyblog`
 > 
-> Taky tady fakt bory nešumí.
+> Další část mých studijních postřehů...
 
 
 # Archives
 
 ## Blog 2024
 
+* 2024/11/18: [Detox od dopamínu](blog-posts/2024-11-17-mid-semester-review-cz) {#weeklyblog}
 * 2024/11/10: [Kde domov můj!](blog-posts/2024-11-10-chemlab.md) {#weeklyblog}
 * 2024/11/06: [Další návštěva](blog-posts/2024-11-06-uxue-visit.md) {#weeklyblog}
 * 2024/10/29: [Meine Muttersprache is Tschechisch](blog-posts/2024-10-29-muttersprache.md) {#weeklyblog}
@@ -61,6 +62,7 @@ h1 { border-bottom:1px dotted grey }
 
 ## English
 
+* 2024/11/18: [Studying @ETH: The Dopamine Detox](blog-posts/2024-11-17-mid-semester-review.md) {#other}
 * 2024/09/23: [How I Misunderstood Academia: Realizations from Transfer to ETH Zurich](blog-posts/2024-09-23-eth-review-eng.md) {#other}
    
 </div>
