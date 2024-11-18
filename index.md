@@ -41,7 +41,7 @@ h1 { border-bottom:1px dotted grey }
 
 ## Blog 2024
 
-* 2024/11/18: [Detox od dopamínu](blog-posts/2024-11-17-mid-semester-review-cz) {#weeklyblog}
+* 2024/11/18: [Detox od dopamínu](blog-posts/2024-11-17-mid-semester-review-cz.md) {#weeklyblog}
 * 2024/11/10: [Kde domov můj!](blog-posts/2024-11-10-chemlab.md) {#weeklyblog}
 * 2024/11/06: [Další návštěva](blog-posts/2024-11-06-uxue-visit.md) {#weeklyblog}
 * 2024/10/29: [Meine Muttersprache is Tschechisch](blog-posts/2024-10-29-muttersprache.md) {#weeklyblog}
