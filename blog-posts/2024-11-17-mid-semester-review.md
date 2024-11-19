@@ -4,7 +4,7 @@ Hello everyone,
 
 at the beginning of the semester, around a month ago, I wrote down my impressions from transfer to ETH Zurich. Since then, I have gathered more observations about the student life here, so I thought it is time to jot them down once again. I have finally washed off the first impressions (got a bit used to everything being so clean and expensive), so maybe now its time to share my take on what it is really like here.
 
-What is more, some of my friends are applying for master admissions for next year (fingers crossed for all of you guys!), so I hope it could maybe also help them to get a more detailed image of what the experience. However, nothing is like experiencing it of course, and everybody sees things differently (so I absolutely reserve the right to be wrong and biased). Now without further ado, let's get down to the business.
+What is more, some of my friends are applying for master admissions for next year (fingers crossed for all of you guys!), so I hope it could maybe also help them to get a more detailed image of the experience. However, nothing is like experiencing it of course, and everybody sees things differently (so I absolutely reserve the right to be wrong and biased). Now without further ado, let's get down to the business.
 ## Study Life
 Now that I have submitted a few assignments and survived a couple of boring lectures (and many interesting ones!), spends some days in the library, I can share my experience with studying here. Cause that is what I came here for, so how is it?
 
@@ -32,7 +32,7 @@ Apart of studying, we are all people. Since being outside of Czechia, I haven't 
 
 What is more, we are slowly moving to the age of having serious relationships. Around a week or two ago, it was 'visiting time' for many of us. Many of my friends (me included) had their significant ones visit them here in Zürich.
 
-For me it has been an opportunity to break away from the daily hustle and do something different, take a few strolls around the city and recall random bits of the history of the city that I remember. More importantly, however, I took a bit of time to slow down and relax. That week I have slept like a baby, and my levels of stress (according to my watch) were at all time low. Even though the backlog has piled up massively, I am happy to I taken the time to spend that time with her. Writing about this now it makes me realize how much I miss her every day :(
+For me it has been an opportunity to break away from the daily hustle and do something different, take a few strolls around the city and recall random bits of the history of the city that I remember. More importantly, however, I took a bit of time to slow down and relax. That week I have slept like a baby, and my levels of stress (according to my watch) were at all time low. Even though the backlog has piled up massively, I am happy to have taken the time to spend that time with her. Writing about this now it makes me realize how much I miss her every day :(
 
 Let's turn the page, when it comes to social life, I can also happily announce I have got to know a couple of people at the uni here. This has the nice effect of giving many hugs/handshakes/high-fives/fist-bombs to people on the corridors of our department building. It is something that I was really missing, and it took some time to build. But it is back, and I am loving it. That small 'hi' and a smile during a break can really make a difference.
 ## Mental Life
