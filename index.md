@@ -30,17 +30,18 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-* 2024/11/18: [Detox od dopamínu](blog-posts/2024-11-17-mid-semester-review-cz) {#weeklyblog}
+* 2024/11/24: * 2024/11/24: [Sláva už je sníh!](blog-posts/2024-11-24-snow.md) {#weeklyblog}
 <!-- > <img src="images/2024-10-29-mom2.jpg" alt="uetliberg" width="400"/> -->
-> date: 2024/11/10 tags: `#weeklyblog`
+> date: 2024/11/24 tags: `#weeklyblog`
 > 
-> Další část mých studijních postřehů...
+> Ale na saních zatím do školy nejezdím...
 
 
 # Archives
 
 ## Blog 2024
 
+* 2024/11/24: [Sláva už je sníh!](blog-posts/2024-11-24-snow.md) {#weeklyblog}
 * 2024/11/18: [Detox od dopamínu](blog-posts/2024-11-17-mid-semester-review-cz.md) {#weeklyblog}
 * 2024/11/10: [Kde domov můj!](blog-posts/2024-11-10-chemlab.md) {#weeklyblog}
 * 2024/11/06: [Další návštěva](blog-posts/2024-11-06-uxue-visit.md) {#weeklyblog}
