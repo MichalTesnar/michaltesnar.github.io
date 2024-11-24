@@ -30,11 +30,11 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-* 2024/11/24: * 2024/11/24: [Sláva už je sníh!](blog-posts/2024-11-24-snow.md) {#weeklyblog}
+* 2024/11/24: [Sláva už je sníh!](blog-posts/2024-11-24-snow.md) {#weeklyblog}
 <!-- > <img src="images/2024-10-29-mom2.jpg" alt="uetliberg" width="400"/> -->
 > date: 2024/11/24 tags: `#weeklyblog`
 > 
-> Ale na saních zatím do školy nejezdím...
+> Ale ještě nejedu do školy na saních...
 
 
 # Archives
