@@ -30,17 +30,18 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-* 2024/11/24: [Sláva už je sníh!](blog-posts/2024-11-24-snow.md) {#weeklyblog}
+* 2024/12/01: [Společnost pro mezinárodní spolupráci](blog-posts/2024-12-01-spoluprace.md) {#weeklyblog}
 <!-- > <img src="images/2024-10-29-mom2.jpg" alt="uetliberg" width="400"/> -->
-> date: 2024/11/24 tags: `#weeklyblog`
+> date: 2024/12/01 tags: `#weeklyblog`
 > 
-> Ale ještě nejedu do školy na saních...
+> Spolupracujeme mezinárodně, a moc hezky nám to jde!
 
 
 # Archives
 
 ## Blog 2024
 
+* 2024/12/01: [Společnost pro mezinárodní spolupráci](blog-posts/2024-12-01-spoluprace.md) {#weeklyblog}
 * 2024/11/24: [Sláva už je sníh!](blog-posts/2024-11-24-snow.md) {#weeklyblog}
 * 2024/11/18: [Detox od dopamínu](blog-posts/2024-11-17-mid-semester-review-cz.md) {#weeklyblog}
 * 2024/11/10: [Kde domov můj!](blog-posts/2024-11-10-chemlab.md) {#weeklyblog}
