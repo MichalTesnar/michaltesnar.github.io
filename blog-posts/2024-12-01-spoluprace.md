@@ -11,7 +11,9 @@ Na fotce níže můžete vidět náš tým, po finální prezentaci. Snažili js
 
 <img src="images/2024-12-01-spoluprace.jpeg" alt="spoluprace" height="600"/>
 
-Závěrem řeknu, že spolupráce je něco, čeho si moc vážím. Vždy mi dělá radost, když můžeme dotáhnout dokonce nějaký takový hezký projekt. Zvlášť v takovém mezinárodním prostředí (Nando a Joelle jsou Švýcaři, Jinsguy je z Číny).
+
+
+Závěrem řeknu, že spolupráce je něco, čeho si moc vážím. Vždy mi dělá radost, když můžeme dotáhnout do konce nějaký takový hezký projekt. Zvlášť v takovém mezinárodním prostředí (Nando a Joelle jsou Švýcaři, Jinsguy je z Číny).
 
 Toť vše od mě.
 
