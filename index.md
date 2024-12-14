@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------
 github     : https://github.com/MichalTesnar
 title      : Michalovo Blog
-subtitle   : Momentálně jsem v Curychu
+subtitle   : Momentálně jsem v Curychu...
 nav-group  : featured, new-3, tags, months
 nav-width  : 200px
 css-header : background:linear-gradient(to bottom right, #06c, #fc0); color:white
@@ -40,7 +40,6 @@ h1 { border-bottom:1px dotted grey }
 # Archives
 
 ## Blog 2024
-
 
 * 2024/12/08: [Malá vítězství](blog-posts/2024-12-08-mala-vitezstvi.md) {#weeklyblog}
 * 2024/12/01: [Společnost pro mezinárodní spolupráci](blog-posts/2024-12-01-spoluprace.md) {#weeklyblog}

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-12-01-spoluprace.md",
+                "file": "2024-12-15-quitting-llms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-01-spoluprace"
+              "title": "2024-12-15-quitting-llms"
             }
           }
         ]
@@ -164,8 +164,10 @@
   },
   "active": "43837dc4fefe6dfa",
   "lastOpenFiles": [
-    "2024-11-24-snow.md",
+    "2024-12-08-mala-vitezstvi.md",
+    "2024-12-15-quitting-llms.md",
     "2024-12-01-spoluprace.md",
+    "2024-11-24-snow.md",
     "Untitled.md",
     "2024-11-17-mid-semester-review-cz.md",
     "2024-11-10-chemlab.md",
@@ -190,9 +192,7 @@
     "2024-09-17-rozhozenost",
     "2024-08-25-vylety.md",
     "Lopatka v Gymu.md",
-    "tunisko-majak.md",
     "2024-08-18-selfie.jpg",
-    "IMG_20240812_100641.jpg",
-    "Welcome.md"
+    "IMG_20240812_100641.jpg"
   ]
 }
