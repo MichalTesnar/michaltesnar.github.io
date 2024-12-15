@@ -30,17 +30,18 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-* 2024/12/08: [Malá vítězství](blog-posts/2024-12-08-mala-vitezstvi.md) {#weeklyblog}
+* 2024/12/15: [Proč končím s ChatGPT — a proč byste měli také](blog-posts/2024-12-15-quitting-llms-cz.md) {#weeklyblog}
 <!-- > <img src="images/2024-10-29-mom2.jpg" alt="uetliberg" width="400"/> -->
-> date: 2024/12/08 tags: `#weeklyblog`
+> date: 2024/12/15 tags: `#weeklyblog`
 > 
-> Sláva vítězům, čest zúčastněným!
+> Rozhodl jsem se začít přemýšlet sám.
 
 
 # Archives
 
 ## Blog 2024
 
+* 2024/12/15: [Proč končím s ChatGPT — a proč byste měli také](blog-posts/2024-12-15-quitting-llms-cz.md) {#weeklyblog}
 * 2024/12/08: [Malá vítězství](blog-posts/2024-12-08-mala-vitezstvi.md) {#weeklyblog}
 * 2024/12/01: [Společnost pro mezinárodní spolupráci](blog-posts/2024-12-01-spoluprace.md) {#weeklyblog}
 * 2024/11/24: [Sláva už je sníh!](blog-posts/2024-11-24-snow.md) {#weeklyblog}
@@ -65,6 +66,7 @@ h1 { border-bottom:1px dotted grey }
 
 ## English
 
+* 2024/12/15: [Why I am Quitting ChatGPT — and Why You Should Too](blog-posts/2024-12-15-quitting-llms.md) {#weeklyblog}
 * 2024/11/18: [Studying @ETH: The Dopamine Detox](blog-posts/2024-11-17-mid-semester-review.md) {#other}
 * 2024/09/23: [How I Misunderstood Academia: Realizations from Transfer to ETH Zurich](blog-posts/2024-09-23-eth-review-eng.md) {#other}
    
