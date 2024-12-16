@@ -35,7 +35,7 @@ Sounds familiar? This has become a common experience for me and my peers. Whenev
 
 ...and that is why I decided to quit.
 ### The New Dawn
-In the same way a child cries out for help to their parents, I would call out to help to ChatGPT whenever I had a problem. I had become a toothless child, not being able to handle anything on my own. You see, the main time occupation of me is being a student. I wake up every day to learn. And with the omnipresence of ChatGPT, I was contributing more to training the model behind it, rather than learning new skills for myself. My relationship towards ChatGPT depends on my current experiences and might change rapidly in the upcoming year, but this is how I feel right now.
+In the same way a child cries out for help to their parents, I would call out to help to ChatGPT whenever I had a problem. I had become a toothless child, not being able to handle anything on my own. You see, my main occupation is being a student. I wake up every day to learn. And with the omnipresence of ChatGPT, I was contributing more to training the model behind it, rather than learning new skills for myself. My relationship towards ChatGPT depends on my current experiences and might change rapidly in the upcoming year, but this is how I feel right now.
 
 As I discussed before, with every tool we become more powerful, but at the same time we lose a part of our skills. I think that is okay, and there is no need to go against the tide of technology. However, as I tried to describe above, **I feel like we are letting ChatGPT do reasoning for us.**
 
@@ -50,7 +50,7 @@ If nothing else, we want to keep our ability to reason under all circumstances. 
 **I strongly believe that taking hold of the reasoning process will pay off down the line.** 
 When you need to advance on the process you have done before, rewrite it, improve or adjust or even explain, you will have a better mental model of the problem. The examples that go for me are becoming better at solving mathematical problems, which only comes through solving problems, or learning to code better, which cannot be learned through just prompting ChatGPT but has to be done through the pain of doing it.
 
-For now, I for myself disabled coding copilot when programming, and try to look up answers on other sources, rather than letting than be generated.
+For now, I for myself disabled coding copilot when programming, and try to look up answers on other sources, rather than letting them be generated.
 
 *Unless maybe coding and solving Math problems are obsolete skills, the ones worth learning. But then we have a completely different discussion...*
 ##### Final Remarks
