@@ -30,14 +30,18 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-* 2024/12/15: [Proč končím s ChatGPT — a proč byste měli také](blog-posts/2024-12-15-quitting-llms-cz.md) {#weeklyblog}
+* 2025/01/13: [Jsem zpět](blog-posts/2025-01-13-comeback.md) {#weeklyblog}
 <!-- > <img src="images/2024-10-29-mom2.jpg" alt="uetliberg" width="400"/> -->
-> date: 2024/12/15 tags: `#weeklyblog`
+> date: 2025/01/13 tags: `#weeklyblog`
 > 
-> Rozhodl jsem se začít přemýšlet sám.
+> Už jsem tady zas!
 
 
 # Archives
+
+## Blog 2025
+
+* 2025/01/13: [Jsem zpět](blog-posts/2025-01-13-comeback.md) {#weeklyblog}
 
 ## Blog 2024
 
