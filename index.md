@@ -30,21 +30,21 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-* 2025/01/13: [Jsem zpět](blog-posts/2025-01-13-comeback.md) {#weeklyblog}
+* 2025/01/20: [Čekání](blog-posts/2025-01-20-cekani.md) {#weeklyblog}
 <!-- > <img src="images/2024-10-29-mom2.jpg" alt="uetliberg" width="400"/> -->
-> date: 2025/01/13 tags: `#weeklyblog`
+> date: 2025/01/20 tags: `#weeklyblog`
 > 
-> Už jsem tady zas!
+> Je to jako u doktora...
 
 
 # Archives
 
 ## Blog 2025
 
-* 2025/01/13: [Jsem zpět](blog-posts/2025-01-13-comeback.md) {#weeklyblog}
 
 ## Blog 2024
 
+* 2025/01/13: [Jsem zpět](blog-posts/2025-01-13-comeback.md) {#weeklyblog}
 * 2024/12/15: [Proč končím s ChatGPT — a proč byste měli také](blog-posts/2024-12-15-quitting-llms-cz.md) {#weeklyblog}
 * 2024/12/08: [Malá vítězství](blog-posts/2024-12-08-mala-vitezstvi.md) {#weeklyblog}
 * 2024/12/01: [Společnost pro mezinárodní spolupráci](blog-posts/2024-12-01-spoluprace.md) {#weeklyblog}
