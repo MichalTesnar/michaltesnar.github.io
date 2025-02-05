@@ -30,9 +30,9 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-* 2025/01/28: [Tlukot srdce](blog-posts/2025-01-27-heartbeat.md) {#weeklyblog}
+* 2025/02/05: [Nezbláznil jsem se](blog-posts/2025-02-05-heartbeat2.md) {#weeklyblog}
 <!-- > <img src="images/2024-10-29-mom2.jpg" alt="uetliberg" width="400"/> -->
-> date: 2025/01/28 tags: `#weeklyblog`
+> date: 2025/02/05 tags: `#weeklyblog`
 > 
 > :)
 
@@ -44,7 +44,7 @@ h1 { border-bottom:1px dotted grey }
 
 ## Blog 2024
 
-
+* 2025/02/05: [Nezbláznil jsem se](blog-posts/2025-02-05-heartbeat2.md) {#weeklyblog}
 * 2025/01/28: [Tlukot srdce](blog-posts/2025-01-27-heartbeat.md) {#weeklyblog}
 * 2025/01/20: [Čekání](blog-posts/2025-01-20-cekani.md) {#weeklyblog}
 * 2025/01/13: [Jsem zpět](blog-posts/2025-01-13-comeback.md) {#weeklyblog}
