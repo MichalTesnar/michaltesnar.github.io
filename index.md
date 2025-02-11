@@ -30,24 +30,24 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-* 2025/02/05: [Nezbláznil jsem se](blog-posts/2025-02-05-heartbeat2.md) {#weeklyblog}
-<!-- > <img src="images/2024-10-29-mom2.jpg" alt="uetliberg" width="400"/> -->
-> date: 2025/02/05 tags: `#weeklyblog`
+* 2025/02/11: [Ein Ausflug](blog-posts/2025-02-11-ein-ausflug.md) {#weeklyblog}
+> <img src="images/2025-02-11-clock.jpeg" alt="vylet" height="400"/>
+> date: 2025/02/11 tags: `#weeklyblog`
 > 
-> :)
-
+> Tak jsem si udělal pro jednou trochu výlet.
 
 # Archives
 
 ## Blog 2025
 
-
-## Blog 2024
-
+* 2025/02/11: [Ein Ausflug](blog-posts/2025-02-11-ein-ausflug.md) {#weeklyblog}
 * 2025/02/05: [Nezbláznil jsem se](blog-posts/2025-02-05-heartbeat2.md) {#weeklyblog}
 * 2025/01/28: [Tlukot srdce](blog-posts/2025-01-27-heartbeat.md) {#weeklyblog}
 * 2025/01/20: [Čekání](blog-posts/2025-01-20-cekani.md) {#weeklyblog}
 * 2025/01/13: [Jsem zpět](blog-posts/2025-01-13-comeback.md) {#weeklyblog}
+
+## Blog 2024
+
 * 2024/12/15: [Proč končím s ChatGPT — a proč byste měli také](blog-posts/2024-12-15-quitting-llms-cz.md) {#weeklyblog}
 * 2024/12/08: [Malá vítězství](blog-posts/2024-12-08-mala-vitezstvi.md) {#weeklyblog}
 * 2024/12/01: [Společnost pro mezinárodní spolupráci](blog-posts/2024-12-01-spoluprace.md) {#weeklyblog}
