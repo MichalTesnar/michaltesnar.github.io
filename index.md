@@ -9,8 +9,8 @@ theme      : dark
 menu       : 
    Home    : michaltesnar.github.io
    GitHub  : https://github.com/MichalTesnar
-   # Dark    : javascript:darkmode()
    About   : ?page=about.md
+   Resume   : ?page=resume.md
 -----------------------------------------------------------------------------
 <style comment="additional style">
 #header { {{css-header}}  }
@@ -30,16 +30,17 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-* 2025/02/11: [Ein Ausflug](blog-posts/2025-02-11-ein-ausflug.md) {#weeklyblog}
-> <img src="images/2025-02-11-clock.jpeg" alt="vylet" height="400"/>
+* 2025/02/16: [Druhé kolo](blog-posts/2025-02-16-2-kolo.md) {#weeklyblog}
+<!-- > <img src="images/2025-02-11-clock.jpeg" alt="vylet" height="400"/> -->
 > date: 2025/02/11 tags: `#weeklyblog`
 > 
-> Tak jsem si udělal pro jednou trochu výlet.
+> Vzhůru na to!
 
 # Archives
 
 ## Blog 2025
 
+* 2025/02/16: [Druhé kolo](blog-posts/2025-02-16-2-kolo.md) {#weeklyblog}
 * 2025/02/11: [Ein Ausflug](blog-posts/2025-02-11-ein-ausflug.md) {#weeklyblog}
 * 2025/02/05: [Nezbláznil jsem se](blog-posts/2025-02-05-heartbeat2.md) {#weeklyblog}
 * 2025/01/28: [Tlukot srdce](blog-posts/2025-01-27-heartbeat.md) {#weeklyblog}
