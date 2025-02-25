@@ -11,6 +11,11 @@ Pokud chcete z pozvdálí sledovat co dělám, tak mě najdete na:
 - [GitHub](https://github.com/MichalTesnar)
 - [Google Scholar](https://scholar.google.com/citations?user=uDXxG5EAAAAJ&hl=es&oi=ao)
 
+## Disclaimer
+
+This blog contains solely my private opinions and they do not in any way represent the views of any of my past, current or future employers or affiliate institutions.
+
+
 ## About This Site
 
 This blog is made using markdown files with a template from [casual-markdown-blog](https://github.com/casualwriter/casual-markdown-blog).
