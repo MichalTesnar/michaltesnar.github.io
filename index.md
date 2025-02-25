@@ -30,16 +30,17 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-* 2025/02/16: [Druhé kolo](blog-posts/2025-02-16-2-kolo.md) {#weeklyblog}
+* 2025/02/25: [První zkouškové období na ETH: Kolektivní hysterie](blog-posts/2025-02-25-collective-hysteria-cz.md) {#weeklyblog}
 <!-- > <img src="images/2025-02-11-clock.jpeg" alt="vylet" height="400"/> -->
-> date: 2025/02/11 tags: `#weeklyblog`
+> date: 2025/02/25 tags: `#weeklyblog`
 > 
-> Vzhůru na to!
+> Tak jak dopadl první semestr?
 
 # Archives
 
 ## Blog 2025
 
+* 2025/02/25: [První zkouškové období na ETH: Kolektivní hysterie](blog-posts/2025-02-25-collective-hysteria-cz.md) {#weeklyblog}
 * 2025/02/16: [Druhé kolo](blog-posts/2025-02-16-2-kolo.md) {#weeklyblog}
 * 2025/02/11: [Ein Ausflug](blog-posts/2025-02-11-ein-ausflug.md) {#weeklyblog}
 * 2025/02/05: [Nezbláznil jsem se](blog-posts/2025-02-05-heartbeat2.md) {#weeklyblog}
@@ -74,7 +75,8 @@ h1 { border-bottom:1px dotted grey }
 
 ## English
 
-* 2024/12/15: [Why I am Quitting ChatGPT — and Why You Should Too](blog-posts/2024-12-15-quitting-llms.md) {#weeklyblog}
+* 2025/02/25: [First Exam Season at ETH: A Collective Hysteria](blog-posts/2025-02-25-collective-hysteria.md) {#other}
+* 2024/12/15: [Why I am Quitting ChatGPT — and Why You Should Too](blog-posts/2024-12-15-quitting-llms.md) {#other}
 * 2024/11/18: [Studying @ETH: The Dopamine Detox](blog-posts/2024-11-17-mid-semester-review.md) {#other}
 * 2024/09/23: [How I Misunderstood Academia: Realizations from Transfer to ETH Zurich](blog-posts/2024-09-23-eth-review-eng.md) {#other}
    
