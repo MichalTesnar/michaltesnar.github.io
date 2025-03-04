@@ -30,16 +30,17 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-* 2025/02/25: [První zkouškové období na ETH: Kolektivní hysterie](blog-posts/2025-02-25-collective-hysteria-cz.md) {#weeklyblog}
+* 2025/03/04: [Odmlka](blog-posts/2025-03-04-odmlka.md) {#weeklyblog}
 <!-- > <img src="images/2025-02-11-clock.jpeg" alt="vylet" height="400"/> -->
-> date: 2025/02/25 tags: `#weeklyblog`
+> date: 2025/03/04 tags: `#weeklyblog`
 > 
-> Tak jak dopadl první semestr?
+> Proč nepíšu???
 
 # Archives
 
 ## Blog 2025
 
+* 2025/03/04: [Odmlka](blog-posts/2025-03-04-odmlka.md) {#weeklyblog}
 * 2025/02/25: [První zkouškové období na ETH: Kolektivní hysterie](blog-posts/2025-02-25-collective-hysteria-cz.md) {#weeklyblog}
 * 2025/02/16: [Druhé kolo](blog-posts/2025-02-16-2-kolo.md) {#weeklyblog}
 * 2025/02/11: [Ein Ausflug](blog-posts/2025-02-11-ein-ausflug.md) {#weeklyblog}
