@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------
 github     : https://github.com/MichalTesnar
 title      : Michalovo Blog
-subtitle   : Momentálně jsem v Curychu...
+subtitle   : Currently *based* in Zürich
 nav-group  : featured, new-3, tags, months
 nav-width  : 200px
 css-header : background:linear-gradient(to bottom right, #06c, #fc0); color:white
