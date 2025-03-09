@@ -2,11 +2,11 @@
 
 # Open a localhost to view the project
 serve:
-	python3 -m http.server 8000
+	python3 -m http.server 8001
 
 # View the project in browser
 view:
-	open http://localhost:8000/
+	open http://localhost:8001/
 
 # Publish
 publish:
@@ -14,7 +14,11 @@ publish:
 
 # Clean up the servers
 clean:
-	kill -9 $(lsof -t -i :8000)
+	kill -9 $(lsof -t -i :8001)
+
+# One step command to view the website
+check:
+	make serve & make view
 
 # Phony targets
-.PHONY: serve view publish clean
+.PHONY: serve view publish clean check

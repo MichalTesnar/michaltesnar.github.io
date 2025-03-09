@@ -30,16 +30,17 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-* 2025/03/04: [Odmlka](blog-posts/2025-03-04-odmlka.md) {#weeklyblog}
+* 2025/03/09: [Rodinný výlet](blog-posts/2025-03-09-rodina.md) {#weeklyblog}
 <!-- > <img src="images/2025-02-11-clock.jpeg" alt="vylet" height="400"/> -->
-> date: 2025/03/04 tags: `#weeklyblog`
+> date: 2025/03/09 tags: `#weeklyblog`
 > 
-> Proč nepíšu???
+> Tak se projednou potkám s někým z rodiny!
 
 # Archives
 
 ## Blog 2025
 
+* 2025/03/09: [Rodinný výlet](blog-posts/2025-03-09-rodina.md) {#weeklyblog}
 * 2025/03/04: [Odmlka](blog-posts/2025-03-04-odmlka.md) {#weeklyblog}
 * 2025/02/25: [První zkouškové období na ETH: Kolektivní hysterie](blog-posts/2025-02-25-collective-hysteria-cz.md) {#weeklyblog}
 * 2025/02/16: [Druhé kolo](blog-posts/2025-02-16-2-kolo.md) {#weeklyblog}
