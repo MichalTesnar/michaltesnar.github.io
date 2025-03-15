@@ -1,27 +1,27 @@
 # What Math do I Need for AI? Catch-Up Guide for RUG AI Undergrads
-
 ## Introduction
 "So why did you choose Groningen?" A question that I have been asked multiple times after disclosing I study or studied there. The answer was "There is a unique program in AI." Now, almost a year after finishing the program I am reflecting more and more about what the program gave me. More and more I come to realize how much breadth was explored, learning about philosophy, cognitive psychology, and biology of the brain is not what most CS undergrads can flex with. However, as the field of machine learning is not stopping to grow, I myself as a student of that program had found out that the depth of the knowledge is insufficient to gain a deep understanding of the material at hand, to read papers and maybe even contribute to the research in a meaningful way. I mean, test yourself right now.
 
 ### Linear regression
+(Sorry I broke LaTeX, working on fixing it, hopefully you can still orient yourself here.)
 
-The simplest model in ML for modeling relations relates targets $y \in \mathbb{R}^n $ with design matrix $X \in \mathbb{R}^{n \times d}$ through vector $\Beta \in \mathbb{R}^d$ with some $w \sim \mathcal{N}\left(0, \sigma^2 I_n \right)$ Gaussian noise added. 
+The simplest model in ML for modeling relations relates targets `y` (an n-dimensional vector) with design matrix `X` (an n by d matrix) through vector `Beta` (a d-dimensional vector) with some Gaussian noise `w` added.
 
-$$
-y = X\Beta + w
-$$
+```
+y = X * Beta + w
+```
 
-We can see that $\hat{\Beta}=\left(X^\top X \right)^{-1} X^\top y$ is an unbiased estimator of $\beta$ using $\mathbb{E}w = 0$:
+We can see that `Beta_hat = (X^T * X)^-1 * X^T * y` is an unbiased estimator of `Beta` using `E[w] = 0`:
 
-$$
-\mathbb{E}\left(X^\top X \right)^{-1} X^\top y  = \mathbb{E}\left(X^\top X \right)^{-1} X^\top \left( X\Beta + w \right) = \left(X^\top X \right)^{-1} X^\top X \Beta = \Beta
-$$
+```
+E[(X^T * X)^-1 * X^T * y] = E[(X^T * X)^-1 * X^T * (X * Beta + w)] = (X^T * X)^-1 * X^T * X * Beta = Beta
+```
 
-Finally, $\hat{\Beta}$ is also the least-squares estimator, for which we can prove this error bound.
+Finally, `Beta_hat` is also the least-squares estimator, for which we can prove this error bound.
 
-$$
-\mathbb{E} \| \hat{\Beta} - \Beta \|^2 = \sigma^2 \frac{d}{n}
-$$
+```
+E[|| Beta_hat - Beta ||^2] = sigma^2 * (d / n)
+```
 
 *Remark:* The least squares is a convex function so there is a unique minimum which can be found in polynomial time using gradient descent.
 
