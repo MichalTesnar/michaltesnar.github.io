@@ -52,7 +52,7 @@ __IMPORTANT DISCLAIMER__: THESE COURSES DO NOT COVER THE SAME STUFF AS THE COURS
 
 This is the list of courses 'I wish I have done'. These are more advanced (=mostly 2nd year math) courses that give you background insight into what is going on in ML. They are not essential, but check them out and if any of the theory seems appealing then certainly go for it. They are all relevant for different areas of ML.
 
-- __Measure Theory__: If you want to go more into depth into Probability Theory, this is a course that you want. This gives you the technical background for that (didn't take this one).
+- __Probability and Measure__: If you want to go more into depth into Probability Theory, this is a course that you want. This gives you the technical background for that (didn't take this one).
 - __Introduction to Optimization__: Keyword *gradient descent*. Optimization is key for training neural nets. This course goes a wee bit too deep, but the first half is definitely relevant.
 - __Functional Analysis__: AKA Linear Algebra III, teaches you more about linear operators and functionals. Very good stuff. Also by Alef Sterk.
 - __Dynamical Systems__: Recurrent neural networks are modeling dynamical systems, this course will help you appreciate that better (didn't take this one).
