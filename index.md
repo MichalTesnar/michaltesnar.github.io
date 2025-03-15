@@ -77,6 +77,7 @@ h1 { border-bottom:1px dotted grey }
 
 ## English
 
+* 2025/03/15: [What Math do I Need for AI? Catch-Up Guide for RUG AI Undergrads](blog-posts/2025-03-15-rug-math-guide.md) {#other}
 * 2025/02/25: [First Exam Season at ETH: A Collective Hysteria](blog-posts/2025-02-25-collective-hysteria.md) {#other}
 * 2024/12/15: [Why I am Quitting ChatGPT — and Why You Should Too](blog-posts/2024-12-15-quitting-llms.md) {#other}
 * 2024/11/18: [Studying @ETH: The Dopamine Detox](blog-posts/2024-11-17-mid-semester-review.md) {#other}
