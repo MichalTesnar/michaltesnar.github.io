@@ -5,23 +5,23 @@
 ### Linear regression
 (Sorry I broke LaTeX, working on fixing it, hopefully you can still orient yourself here.)
 
-The simplest model in ML for modeling relations relates targets `y` (an n-dimensional vector) with design matrix `X` (an n by d matrix) through vector `Beta` (a d-dimensional vector) with some Gaussian noise `w` added.
+The simplest model in ML for modeling relations relates targets `y` (an n-dimensional vector) with design matrix `X` (an n by d matrix) through vector `β` (a d-dimensional vector) with some Gaussian noise `w` added.
 
-```
-y = X * Beta + w
-```
 
-We can see that `Beta_hat = (X^T * X)^-1 * X^T * y` is an unbiased estimator of `Beta` using `E[w] = 0`:
+y = X * β + w
 
-```
-E[(X^T * X)^-1 * X^T * y] = E[(X^T * X)^-1 * X^T * (X * Beta + w)] = (X^T * X)^-1 * X^T * X * Beta = Beta
-```
 
-Finally, `Beta_hat` is also the least-squares estimator, for which we can prove this error bound.
+We can see that `β̂ = (X<sup>T</sup> * X)<sup>-1</sup> * X<sup>T</sup> * y` is an unbiased estimator of `β` using `E[w] = 0`:
 
-```
-E[|| Beta_hat - Beta ||^2] = sigma^2 * (d / n)
-```
+
+E[(X<sup>T</sup> * X)<sup>-1</sup> * X<sup>T</sup> * y] = E[(X<sup>T</sup> * X)<sup>-1</sup> * X<sup>T</sup> * (X * β + w)] = (X<sup>T</sup> * X)<sup>-1</sup> * X<sup>T</sup> * X * β = β
+
+
+Finally, `β̂` is also the least-squares estimator, for which we can prove this error bound.
+
+
+E[|| β̂ - β ||<sup>2</sup>] = σ<sup>2</sup> * (d / n)
+
 
 *Remark:* The least squares is a convex function so there is a unique minimum which can be found in polynomial time using gradient descent.
 
