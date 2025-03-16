@@ -18,7 +18,7 @@ stage:
 
 # Publish
 publish:
-	git add --a && git commit -m "Blog $(shell date +'%Y-%m-%d')" && git push
+	git add --a && git commit -m "Blog $(shell date +'%Y-%m-%d')" && git push 
 
 # Clean up the servers
 clean:
