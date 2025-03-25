@@ -30,11 +30,11 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-* 2025/03/16: [Psaní, psaní, psaní!](blog-posts/2025-03-16-psani.md) {#weeklyblog}
+* 2025/03/25: [Rigi](blog-posts/2025-03-25-rigi.md) {#weeklyblog}
 <!-- > <img src="images/2025-02-11-clock.jpeg" alt="vylet" height="400"/> -->
-> date: 2025/03/09 tags: `#weeklyblog`
+> date: 2025/03/25 tags: `#weeklyblog`
 > 
-> Tak se projednou potkám s někým z rodiny!
+> Hurá na kopec!
 
 # Archives
 
