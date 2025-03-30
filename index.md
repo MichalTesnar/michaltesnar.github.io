@@ -30,7 +30,7 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-* 2025/03/30: [CERN](blog-posts/2025-03-25-cern.md) {#weeklyblog}
+* 2025/03/30: [CERN](blog-posts/2025-03-30-cern.md) {#weeklyblog}
 <!-- > <img src="images/2025-02-11-clock.jpeg" alt="vylet" height="400"/> -->
 > date: 2025/03/30 tags: `#weeklyblog`
 > 
@@ -39,7 +39,7 @@ h1 { border-bottom:1px dotted grey }
 # Archives
 ## Blog 2025
 
-* 2025/03/30: [CERN](blog-posts/2025-03-25-cern.md) {#weeklyblog}
+* 2025/03/30: [CERN](blog-posts/2025-03-30-cern.md) {#weeklyblog}
 * 2025/03/25: [Rigi](blog-posts/2025-03-25-rigi.md) {#weeklyblog}
 * 2025/03/16: [Psaní, psaní, psaní!](blog-posts/2025-03-16-psani.md) {#weeklyblog}
 * 2025/03/09: [Rodinný výlet](blog-posts/2025-03-09-rodina.md) {#weeklyblog}
