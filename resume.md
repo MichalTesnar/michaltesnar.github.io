@@ -21,7 +21,7 @@ My personal passion is communication and learning languages: apart from my mothe
 
 ### Master of Science in Data Science  
 **ETH Zürich, Switzerland**  
-📅 September 2024 – Present | **GPA:** 5.5/6  
+📅 September 2024 – Present | **GPA:** 5.25/6  
 - **Major Coursework:** Probabilistic Artificial Intelligence, Big Data  
 - **Specialization:** Robotics  
 
