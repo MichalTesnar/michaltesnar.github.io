@@ -30,16 +30,17 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-* 2025/04/13: [Nakování na ulici](blog-posts/2025-04-13-street-shopping.md) {#weeklyblog}
+* 2025/04/26: [Velikonoce](blog-posts/2025-04-26-velikonoce.md) {#weeklyblog}
 <!-- > <img src="images/2025-02-11-clock.jpeg" alt="vylet" height="400"/> -->
-> date: 2025/04/13 tags: `#weeklyblog`
+> date: 2025/04/16 tags: `#weeklyblog`
 > 
-> Nakupování v Curychu, ale tentokrát zadarmo!
+> Lepší pozdě nežli vůbec.
 
 # Archives
 ## Blog 2025
 
-<!-- * 2025/04/13: [Nakování na ulici](blog-posts/2025-04-13-street-shopping.md) {#weeklyblog} -->
+<!-- * 2025/04/26: [Velikonoce](blog-posts/2025-04-26-velikonoce.md) {#weeklyblog} -->
+* 2025/04/13: [Nakování na ulici](blog-posts/2025-04-13-street-shopping.md) {#weeklyblog}
 * 2025/04/06: [Počasí](blog-posts/2025-04-06-pocasi.md) {#weeklyblog}
 * 2025/03/30: [CERN](blog-posts/2025-03-30-cern.md) {#weeklyblog}
 * 2025/03/25: [Rigi](blog-posts/2025-03-25-rigi.md) {#weeklyblog}
