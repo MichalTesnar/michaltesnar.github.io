@@ -30,16 +30,17 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-* 2025/04/26: [Velikonoce](blog-posts/2025-04-26-velikonoce.md) {#weeklyblog}
+* 2025/04/29: [Když věci nejsou takové, jaké se zdají: Skutečná obtížnost učení se jazykům](blog-posts/2025-04-27-true-difficulty-of-language-learning-cz.md) {#weeklyblog}
 <!-- > <img src="images/2025-02-11-clock.jpeg" alt="vylet" height="400"/> -->
-> date: 2025/04/16 tags: `#weeklyblog`
+> date: 2025/04/29 tags: `#weeklyblog`
 > 
-> Lepší pozdě nežli vůbec.
+> Proč je učení jazyků tak složité?
 
 # Archives
 ## Blog 2025
 
-<!-- * 2025/04/26: [Velikonoce](blog-posts/2025-04-26-velikonoce.md) {#weeklyblog} -->
+<!-- * 2025/04/29: [Když věci nejsou takové, jaké se zdají: Skutečná obtížnost učení se jazykům](blog-posts/2025-04-27-true-difficulty-of-language-learning-cz.md) {#weeklyblog} -->
+* 2025/04/26: [Velikonoce](blog-posts/2025-04-26-velikonoce.md) {#weeklyblog}
 * 2025/04/13: [Nakování na ulici](blog-posts/2025-04-13-street-shopping.md) {#weeklyblog}
 * 2025/04/06: [Počasí](blog-posts/2025-04-06-pocasi.md) {#weeklyblog}
 * 2025/03/30: [CERN](blog-posts/2025-03-30-cern.md) {#weeklyblog}
@@ -82,6 +83,7 @@ h1 { border-bottom:1px dotted grey }
 
 ## English
 
+* 2025/04/29: [When Things Are Not The Way They Seem: The True Difficulty of Language Learning](blog-posts/2025-04-27-true-difficulty-of-language-learning.md) {#weeklyblog}
 * 2025/03/15: [What Math do I Need for AI? Catch-Up Guide for RUG AI Undergrads](blog-posts/2025-03-15-rug-math-guide.md) {#other}
 * 2025/02/25: [First Exam Season at ETH: A Collective Hysteria](blog-posts/2025-02-25-collective-hysteria.md) {#other}
 * 2024/12/15: [Why I am Quitting ChatGPT — and Why You Should Too](blog-posts/2024-12-15-quitting-llms.md) {#other}
