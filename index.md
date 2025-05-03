@@ -41,7 +41,7 @@ h1 { border-bottom:1px dotted grey }
 
 <!-- * 2025/04/29: [Když věci nejsou takové, jaké se zdají: Skutečná obtížnost učení se jazykům](blog-posts/2025-04-27-true-difficulty-of-language-learning-cz.md) {#weeklyblog} -->
 * 2025/04/26: [Velikonoce](blog-posts/2025-04-26-velikonoce.md) {#weeklyblog}
-* 2025/04/13: [Nakování na ulici](blog-posts/2025-04-13-street-shopping.md) {#weeklyblog}
+* 2025/04/13: [Nakování na ulici](blog-posts/2025-04-13-street.md) {#weeklyblog}
 * 2025/04/06: [Počasí](blog-posts/2025-04-06-pocasi.md) {#weeklyblog}
 * 2025/03/30: [CERN](blog-posts/2025-03-30-cern.md) {#weeklyblog}
 * 2025/03/25: [Rigi](blog-posts/2025-03-25-rigi.md) {#weeklyblog}
