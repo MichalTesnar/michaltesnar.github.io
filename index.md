@@ -30,11 +30,11 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-* 2025/05/04: [Upálili jsme sněhuláka!](blog-posts/2025-05-04-sechsenluuten.md) {#weeklyblog}
+* 2025/05/11: [Stěhování v Curychu](blog-posts/2025-05-11-moving-cz.md) {#weeklyblog}
 <!-- > <img src="images/2025-02-11-clock.jpeg" alt="vylet" height="400"/> -->
-> date: 2025/05/04 tags: `#weeklyblog`
+> date: 2025/05/11 tags: `#weeklyblog`
 > 
-> Upálili jsme sněhuláka!
+> Jaké je to stěhovat se? A jak vůbec na to?
 
 # Archives
 ## Blog 2025
@@ -83,7 +83,8 @@ h1 { border-bottom:1px dotted grey }
 
 ## Posts Written in English
 
-* 2025/04/29: [When Things Are Not The Way They Seem: The True Difficulty of Language Learning](blog-posts/2025-04-27-true-difficulty-of-language-learning.md) {#weeklyblog}
+* 2025/05/11: [Moving to Zurich: A Little Guide to Attacking the Housing Market](blog-posts/2025-05-11-moving.md) {#other}
+* 2025/04/29: [When Things Are Not The Way They Seem: The True Difficulty of Language Learning](blog-posts/2025-04-27-true-difficulty-of-language-learning.md) {#other}
 * 2025/03/15: [What Math do I Need for AI? Catch-Up Guide for RUG AI Undergrads](blog-posts/2025-03-15-rug-math-guide.md) {#other}
 * 2025/02/25: [First Exam Season at ETH: A Collective Hysteria](blog-posts/2025-02-25-collective-hysteria.md) {#other}
 * 2024/12/15: [Why I am Quitting ChatGPT — and Why You Should Too](blog-posts/2024-12-15-quitting-llms.md) {#other}
