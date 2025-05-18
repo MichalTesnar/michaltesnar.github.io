@@ -30,15 +30,17 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-* 2025/05/11: [Stěhování v Curychu](blog-posts/2025-05-11-moving-cz.md) {#weeklyblog}
+* 2025/05/18: [Štafeta SOLA](blog-posts/2025-05-18-sola.md) {#weeklyblog}
 <!-- > <img src="images/2025-02-11-clock.jpeg" alt="vylet" height="400"/> -->
-> date: 2025/05/11 tags: `#weeklyblog`
+> date: 2025/05/18 tags: `#weeklyblog`
 > 
-> Jaké je to stěhovat se? A jak vůbec na to?
+> Utíkej, jako o život!
 
 # Archives
 ## Blog 2025
 
+* 2025/05/11: [Stěhování v Curychu](blog-posts/2025-05-11-moving-cz.md) {#weeklyblog}
+* 2025/05/04: [Upálení sněhuláka](blog-posts/2025-05-04-sechsenluuten.md) {#weeklyblog}
 * 2025/04/29: [Když věci nejsou takové, jaké se zdají: Skutečná obtížnost učení se jazykům](blog-posts/2025-04-27-true-difficulty-of-language-learning-cz.md) {#weeklyblog}
 * 2025/04/26: [Velikonoce](blog-posts/2025-04-26-velikonoce.md) {#weeklyblog}
 * 2025/04/13: [Nakování na ulici](blog-posts/2025-04-13-street.md) {#weeklyblog}
