@@ -30,15 +30,16 @@ h1 { border-bottom:1px dotted grey }
 
 # Featured
 
-* 2025/05/18: [Štafeta SOLA](blog-posts/2025-05-18-sola.md) {#weeklyblog}
+* 2025/05/25: [Paradigmata](blog-posts/2025-05-25-paradigmata.md) {#weeklyblog}
 <!-- > <img src="images/2025-02-11-clock.jpeg" alt="vylet" height="400"/> -->
-> date: 2025/05/18 tags: `#weeklyblog`
+> date: 2025/05/25 tags: `#weeklyblog`
 > 
-> Utíkej, jako o život!
+> Život z pohledu studenta strojového učení.
 
 # Archives
 ## Blog 2025
 
+* 2025/05/18: [Štafeta SOLA](blog-posts/2025-05-18-sola.md) {#weeklyblog}
 * 2025/05/11: [Stěhování v Curychu](blog-posts/2025-05-11-moving-cz.md) {#weeklyblog}
 * 2025/05/04: [Upálení sněhuláka](blog-posts/2025-05-04-sechsenluuten.md) {#weeklyblog}
 * 2025/04/29: [Když věci nejsou takové, jaké se zdají: Skutečná obtížnost učení se jazykům](blog-posts/2025-04-27-true-difficulty-of-language-learning-cz.md) {#weeklyblog}
