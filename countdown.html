@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Countdown Timer</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4;
+    flex-direction: column;
+  }
+  .countdown {
+    font-size: 2em;
+    color: #333;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  }
+</style>
+</head>
+<body>
+
+<h1>Hello, this is a secret website! Do not tell anybody! </h1>
+<p> This shows the time until we next see each other :)</p>
+
+
+<div class="countdown" id="countdown"></div>
+
+
+
+<script>
+// Set the date we're counting down to (Year, Month (0-11), Day, Hour, Minute, Second)
+const countdownDate = new Date("Jun 27, 2025 17:00:00").getTime();
+
+// Update the countdown every 1 second (or when the page refreshes)
+function updateCountdown() {
+  const now = new Date().getTime();
+  const distance = countdownDate - now;
+
+  // Calculate time components
+  const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="countdown"
+  document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+
+  // If the countdown is finished, write some text
+  if (distance < 0) {
+    document.getElementById("countdown").innerHTML = "EXPIRED";
+  }
+}
+
+// Initial call to display the countdown immediately on page load
+updateCountdown();
+
+// You can optionally add an interval to make it update every second without refreshing
+// If you want it to only update on refresh, remove the setInterval line below.
+setInterval(updateCountdown, 1000);
+</script>
+
+</body>
+</html>

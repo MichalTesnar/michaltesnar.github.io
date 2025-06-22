@@ -35,6 +35,7 @@ h1 { border-bottom:1px dotted grey }
 > date: 2025/06/22 tags: `#weeklyblog`
 > 
 > To se opravdu nepovedlo. Ale co už.
+[LINK](countdown.html)
 
 # Archives
 ## Blog 2025
