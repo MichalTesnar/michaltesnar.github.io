@@ -1,69 +1,194 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Countdown Timer</title>
-<style>
+<title>Countdown & Distance</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> <style>
   body {
-    font-family: Arial, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     margin: 0;
-    background-color: #f4f4f4;
-    flex-direction: column;
-  }
-  .countdown {
-    font-size: 2em;
+    background-color: #e0f7fa; /* A softer background color */
+    text-align: center;
     color: #333;
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    padding: 20px; /* Add some padding around the edges */
+    box-sizing: border-box; /* Include padding in element's total width/height */
+  }
+
+  .content-container {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 12px; /* Slightly more rounded corners */
+    box-shadow: 0 6px 20px rgba(0,0,0,0.15); /* More pronounced shadow */
+    max-width: 600px;
+    width: 100%; /* Ensure it takes full width on smaller screens */
+    margin: 20px 0; /* Add vertical margin */
+  }
+
+  h1 {
+    color: #263238; /* Darker heading color */
+    margin-bottom: 15px;
+    font-size: 1.8em; /* Slightly larger heading */
+  }
+
+  p {
+    color: #455a64; /* Softer paragraph color */
+    font-size: 1.1em;
+    margin-top: 0;
+    margin-bottom: 25px; /* More space before the main elements */
+  }
+
+  .countdown, .distance-info {
+    font-size: 1.8em; /* Unified font size for both */
+    font-weight: bold; /* Make them stand out */
+    color: #00796b; /* A distinct color for the main numbers */
+    padding: 15px 0; /* Consistent vertical padding */
+    margin-bottom: 10px; /* Space between them */
+    background-color: #e0f2f7; /* Light background for the numbers */
+    border-radius: 8px; /* Rounded corners for the display areas */
+    box-shadow: inset 0 1px 3px rgba(0,0,0,0.1); /* Slight inner shadow */
+  }
+
+  .distance-info {
+    color: #00796b; /* Same color for consistency */
+    margin-bottom: 0; /* No margin after the last element */
+    padding-top: 15px; /* Consistent vertical padding */
+  }
+
+  .error-message {
+    color: #d32f2f; /* Red for errors */
+    font-size: 0.9em;
+    margin-top: 15px;
+  }
+
+  /* Media Queries for Mobile Adjustments */
+  @media (max-width: 768px) {
+    h1 {
+      font-size: 1.5em; /* Smaller heading on smaller screens */
+    }
+    p {
+      font-size: 1em; /* Smaller paragraph on smaller screens */
+    }
+    .countdown, .distance-info {
+      font-size: 1.5em; /* Smaller font for numbers on mobile */
+      padding: 12px 0;
+    }
+    .content-container {
+        padding: 20px; /* Less padding on mobile */
+    }
+  }
+
+  @media (max-width: 480px) {
+    h1 {
+      font-size: 1.3em;
+    }
+    p {
+      font-size: 0.95em;
+    }
+    .countdown, .distance-info {
+      font-size: 1.3em;
+    }
   }
 </style>
 </head>
 <body>
 
-<h1>Hello, this is a secret website! Do not tell anybody! </h1>
-<p> This shows the time until we next see each other :)</p>
+<div class="content-container">
+  <h1>Hello, this is a secret website! Do not tell anybody! </h1>
 
-
-<div class="countdown" id="countdown"></div>
-
-
+  <h3>Current time until you see your boyfriend! </h3>
+  <div class="countdown" id="countdown"></div>
+  <h3>Current distance to your boyfriend! </h3>
+  <div class="distance-info" id="bfDistance">Calculating the distance...</div>
+  <div class="error-message" id="errorConsole"></div>
+</div>
 
 <script>
-// Set the date we're counting down to (Year, Month (0-11), Day, Hour, Minute, Second)
-const countdownDate = new Date("Jun 27, 2025 17:00:00").getTime();
+// --- Countdown Logic ---
+const countdownDate = new Date("Jul 22, 2025 17:00:00").getTime(); // **REMEMBER TO CHANGE THIS DATE!**
 
-// Update the countdown every 1 second (or when the page refreshes)
 function updateCountdown() {
   const now = new Date().getTime();
   const distance = countdownDate - now;
 
-  // Calculate time components
   const days = Math.floor(distance / (1000 * 60 * 60 * 24));
   const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
   const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
   const seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-  // Display the result in the element with id="countdown"
-  document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
-  + minutes + "m " + seconds + "s ";
-
-  // If the countdown is finished, write some text
   if (distance < 0) {
     document.getElementById("countdown").innerHTML = "EXPIRED";
+  } else {
+    document.getElementById("countdown").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
   }
 }
 
-// Initial call to display the countdown immediately on page load
 updateCountdown();
 
-// You can optionally add an interval to make it update every second without refreshing
-// If you want it to only update on refresh, remove the setInterval line below.
-setInterval(updateCountdown, 1000);
+setInterval(updateCountdown, 1000); // update every second
+
+
+// Coordinates of BF
+const lat = 47.352458;
+const lon = 8.575757;
+
+function displayError(message) {
+  document.getElementById("errorConsole").innerText = "Error: " + message;
+}
+
+function calculateDistance(lat1, lon1, lat2, lon2) {
+  const R = 6371; // Radius of Earth in kilometers
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLon = (lon2 - lon1) * Math.PI / 180;
+  const a =
+    Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+    Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+    Math.sin(dLon / 2) * Math.sin(dLon / 2);
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+  const distance = R * c; // Distance in km
+  return distance;
+}
+
+function getLocationAndCalculateDistance() {
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(
+      (position) => {
+        const userLat = position.coords.latitude;
+        const userLon = position.coords.longitude;
+
+        const distanceKm = calculateDistance(userLat, userLon, lat, lon);
+        document.getElementById("bfDistance").innerHTML = `${distanceKm.toFixed(2)} km`;
+      },
+      (error) => {
+        let errorMessage = "Unable to retrieve your location.";
+        switch (error.code) {
+          case error.PERMISSION_DENIED:
+            errorMessage = "Location permission denied. Please allow location access to see the distance.";
+            break;
+          case error.POSITION_UNAVAILABLE:
+            errorMessage = "Location information is unavailable.";
+            break;
+          case error.TIMEOUT:
+            errorMessage = "The request to get user location timed out.";
+            break;
+          case error.UNKNOWN_ERROR:
+            errorMessage = "An unknown error occurred while getting location.";
+            break;
+        }
+        document.getElementById("bfDistance").innerHTML = `Distance: <span style="color: grey;">${errorMessage}</span>`;
+        displayError(errorMessage);
+      }
+    );
+  } else {
+    document.getElementById("bfDistance").innerHTML = "Distance: <span style='color: grey;'>Geolocation is not supported by your browser.</span>";
+  }
+}
+
+// Call this function when the page loads or refreshes
+getLocationAndCalculateDistance();
 </script>
 
 </body>
