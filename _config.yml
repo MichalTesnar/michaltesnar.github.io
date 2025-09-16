@@ -7,7 +7,7 @@ first_name: Michal
 middle_name:
 last_name: Tešnar
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Looking forward to talking to you!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Personal Blog # blog_name will be displayed in your blog page
+blog_description: What I think about, excluding food and sleep.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -187,7 +187,6 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
