@@ -4,8 +4,8 @@ title: projects
 permalink: /projects/
 description: Selection of things that I did, and I am also proud of.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+display_categories: [fun, uni]
 horizontal: false
 ---
 

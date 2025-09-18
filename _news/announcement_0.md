@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have setup this new page!
+I created this new blog from a template! From now on I will try to keep it up to date as a personal portfolio, blog as well as CV and publication list.

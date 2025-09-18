@@ -4,7 +4,7 @@
     "label": "Student of Data Science",
     "image": "Michal Tesnar.jpeg",
     "email": "michal.tesnar007@gmail.com",
-    "url": null,
+    "url": "https://michaltesnar.github.io/",
     "summary": "I have a passion for optimizing everything that can be optimized: from my daily routines to robot trajectories. I am the luckiest person, since I was born in an era when we do just that with AI. I love talking to people and learning languages: apart from my mother tongue (Czech) and the languages in which I studied (C1: English, Dutch), I also learned German and Spanish (B1), and now starting Russian (A1). I will be super happy if you talk to me in any of those!",
     "location": {
       "city": "Zürich",
@@ -136,11 +136,6 @@
     {
       "language": "Spanish",
       "fluency": "B1",
-      "icon": null
-    },
-    {
-      "language": "Russian",
-      "fluency": "A1",
       "icon": null
     }
   ],
