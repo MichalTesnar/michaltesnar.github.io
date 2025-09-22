@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-moving-to-zurich-a-little-guide-to-attacking-the-housing-market",
+        },{id: "post-domov-číslo-čtyři",
+        
+          title: "Domov číslo čtyři",
+        
+        description: "A kde žiju teď? A s kým?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/novy-byt/";
+          
+        },
+      },{id: "post-moving-to-zurich-a-little-guide-to-attacking-the-housing-market",
         
           title: "Moving to Zurich: A Little Guide to Attacking the Housing Market",
         
