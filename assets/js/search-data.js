@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-domov-číslo-čtyři",
+        },{id: "post-velká-párty",
+        
+          title: "Velká párty",
+        
+        description: "Protože studentem asi nebudu navždy",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/velka-party/";
+          
+        },
+      },{id: "post-domov-číslo-čtyři",
         
           title: "Domov číslo čtyři",
         
