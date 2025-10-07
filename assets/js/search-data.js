@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-velká-párty",
+        },{id: "post-výlet-do-česka",
+        
+          title: "Výlet do Česka",
+        
+        description: "Najít si čas na rodinu a kamarády není jednoduché",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/vylet-do-ceska/";
+          
+        },
+      },{id: "post-velká-párty",
         
           title: "Velká párty",
         
