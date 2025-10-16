@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-výlet-do-česka",
+        },{id: "post-professional-impairment-seeing-your-own-life-through-the-lense-of-artificial-intelligence",
+        
+          title: "Professional Impairment: Seeing Your Own Life Through the Lense of Artificial Intelligence",
+        
+        description: "Learning about machine learning makes me learn about myself.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/me-the-ai/";
+          
+        },
+      },{id: "post-výlet-do-česka",
         
           title: "Výlet do Česka",
         
