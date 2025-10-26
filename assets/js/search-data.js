@@ -37,7 +37,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-professional-impairment-seeing-your-own-life-through-the-lense-of-artificial-intelligence",
+        },{id: "post-polsko-není-tak-daleko-jak-by-se-člověku-zdálo",
+        
+          title: "Polsko není tak daleko, jak by se člověku zdálo",
+        
+        description: "Kulturní schledání za hranicemi",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/polsko/";
+          
+        },
+      },{id: "post-jürgen-schmidhuber-v-curychu",
+        
+          title: "Jürgen Schmidhuber v Curychu",
+        
+        description: "Další hvězda a inspirace.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/jsh-has-lost-it/";
+          
+        },
+      },{id: "post-professional-impairment-seeing-your-own-life-through-the-lense-of-artificial-intelligence",
         
           title: "Professional Impairment: Seeing Your Own Life Through the Lense of Artificial Intelligence",
         
