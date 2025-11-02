@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-polsko-není-tak-daleko-jak-by-se-člověku-zdálo",
+        },{id: "post-výlet-do-mnichova",
+        
+          title: "Výlet do Mnichova",
+        
+        description: "Návštěva u bývalého spolužáka",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/munich-trip/";
+          
+        },
+      },{id: "post-polsko-není-tak-daleko-jak-by-se-člověku-zdálo",
         
           title: "Polsko není tak daleko, jak by se člověku zdálo",
         
