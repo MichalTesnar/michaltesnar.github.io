@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-výlet-do-mnichova",
+        },{id: "post-nové-životní-problémy",
+        
+          title: "Nové životní problémy",
+        
+        description: "Jak jsem si myslel, že už mám pro jednou zase hotovo...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/job-market/";
+          
+        },
+      },{id: "post-výlet-do-mnichova",
         
           title: "Výlet do Mnichova",
         
