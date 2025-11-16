@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-nové-životní-problémy",
+        },{id: "post-dreamland",
+        
+          title: "Dreamland",
+        
+        description: "Does everybody live in a dreamland?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/dreamland/";
+          
+        },
+      },{id: "post-nové-životní-problémy",
         
           title: "Nové životní problémy",
         
