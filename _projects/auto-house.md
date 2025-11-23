@@ -3,7 +3,7 @@ layout: page
 title: auto-house
 description: Agent that finds you housing in the Zürich area.
 img: assets/img/projects/autohouse/autohouse.png
-importance: 1
+importance: 2
 category: fun
 related_publications: false
 ---
