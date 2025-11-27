@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: What I wrote, and somebody bothered to review.
 nav: true
-nav_order: 10
+nav_order: 9
 ---
 
 <!-- _pages/publications.md -->
