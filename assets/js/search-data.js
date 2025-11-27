@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-bookshelf",
+          title: "bookshelf",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/books/";
+          },
         },{id: "post-dreamland",
         
           title: "Dreamland",
@@ -218,6 +225,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "books-what-is-life",
+          title: 'What is Life?',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/what_is_life/";
             },},{id: "news-i-created-this-new-blog-from-a-template-from-now-on-i-will-try-to-keep-it-up-to-date-as-a-personal-portfolio-blog-as-well-as-cv-and-publication-list",
           title: 'I created this new blog from a template! From now on I will...',
           description: "",
