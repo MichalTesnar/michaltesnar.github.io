@@ -220,12 +220,7 @@ ninja.data = [{
             window.location.href = "/blog/2024/eth-review/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "books-what-is-life",
+      },{id: "books-what-is-life",
           title: 'What is Life?',
           description: "",
           section: "Books",handler: () => {
