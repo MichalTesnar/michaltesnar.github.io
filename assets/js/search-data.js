@@ -225,8 +225,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/what_is_life/";
+            },},{id: "books-why-greatness-cannot-be-planned",
+          title: 'Why greatness cannot be planned?',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/why_greatness_cannot_be_planned/";
             },},{id: "news-i-created-this-new-blog-from-a-template-from-now-on-i-will-try-to-keep-it-up-to-date-as-a-personal-portfolio-blog-as-well-as-cv-and-publication-list",
           title: 'I created this new blog from a template! From now on I will...',
+          description: "",
+          section: "News",},{id: "news-right-now-you-should-be-able-to-sign-up-for-a-mailing-list-see-below-you-will-be-notified-on-every-new-blog-post-or-publication",
+          title: 'Right now you should be able to sign up for a mailing list...',
           description: "",
           section: "News",},{id: "projects-auto-house",
           title: 'auto-house',
