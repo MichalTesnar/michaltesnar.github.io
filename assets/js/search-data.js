@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-dreamland",
+        },{id: "post-jungfraujoch",
+        
+          title: "Jungfraujoch",
+        
+        description: "Just another week in Switzerland.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/jungfraujoch/";
+          
+        },
+      },{id: "post-dreamland",
         
           title: "Dreamland",
         
