@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-jungfraujoch",
+        },{id: "post-vánoce-vánoce-přicházejí",
+        
+          title: "Vánoce Vánoce přicházejí!",
+        
+        description: "Time to go home.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/vanoce-prichazeji/";
+          
+        },
+      },{id: "post-jungfraujoch",
         
           title: "Jungfraujoch",
         
