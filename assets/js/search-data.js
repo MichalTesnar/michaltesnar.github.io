@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-vánoce-vánoce-přicházejí",
+        },{id: "post-new-year",
+        
+          title: "New year!",
+        
+        description: "What will it bring?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/new-year/";
+          
+        },
+      },{id: "post-vánoce-vánoce-přicházejí",
         
           title: "Vánoce Vánoce přicházejí!",
         
