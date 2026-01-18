@@ -263,6 +263,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/why_greatness_cannot_be_planned/";
+            },},{id: "books-a-thousand-brains-a-new-theory-of-intelligence",
+          title: 'A Thousand Brains: A New Theory of Intelligence',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/1000_brains_theory/";
             },},{id: "news-i-created-this-new-blog-from-a-template-from-now-on-i-will-try-to-keep-it-up-to-date-as-a-personal-portfolio-blog-as-well-as-cv-and-publication-list",
           title: 'I created this new blog from a template! From now on I will...',
           description: "",
