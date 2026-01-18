@@ -279,6 +279,11 @@ ninja.data = [{
           description: "Agent that finds you housing in the Zürich area.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/auto-house/";
+            },},{id: "projects-swiss-german",
+          title: 'Swiss German',
+          description: "Most beautiful language of the world!",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ch-deutsch/";
             },},{id: "projects-warped-cross-entropy",
           title: 'Warped Cross Entropy',
           description: "Maybe categorical cross entropy is not the only way to go!",
