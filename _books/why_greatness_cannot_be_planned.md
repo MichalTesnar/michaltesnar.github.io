@@ -3,6 +3,7 @@ layout: book-review
 title: Why greatness cannot be planned?
 author: Joel Lehman and Kenneth Stanley
 cover: assets/img/book_covers/why-greatness-cannot-be-planned.jpg
+date: 2025-11-30
 finished: 2025-11-30
 started: 2025-11-22
 released: 2015-05-05

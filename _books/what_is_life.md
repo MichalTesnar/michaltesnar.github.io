@@ -3,6 +3,7 @@ layout: book-review
 title: What is Life?
 author: Blaise Aguera y Arcas
 cover: assets/img/book_covers/what-is-life.webp
+date: 2025-11-01
 finished: 2025-11-01
 started: 2025-10-30
 released: 2025-03-11
