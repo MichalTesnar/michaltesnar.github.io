@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-new-year",
+        },{id: "post-michaldeutsch",
+        
+          title: "Michaldeutsch",
+        
+        description: "When you (accidently) start your own dialect.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/michaldeutsch/";
+          
+        },
+      },{id: "post-new-year",
         
           title: "New year!",
         
