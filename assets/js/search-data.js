@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-michaldeutsch",
+        },{id: "post-dream-sold-to-the-most-ambitious-my-take-on-the-yc-visit-to-eth",
+        
+          title: "Dream Sold to the Most Ambitious: My Take on the YC Visit to...",
+        
+        description: "Maybe it is true, maybe not, but they sell it well.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/yc-observations/";
+          
+        },
+      },{id: "post-michaldeutsch",
         
           title: "Michaldeutsch",
         
