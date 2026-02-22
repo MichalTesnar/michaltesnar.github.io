@@ -17,13 +17,15 @@ Was? Was würde Schweizerdeutsch so schön machen? Ganz einfach, es hat extrem v
 
 Ich merke auch schon das Schweizerdeutsch als "cool" gesehen wird, es wird viel in Werbungen benutzt und wirkt irgendwie Nationalistisch und man spürt schon dass die Schweizer stolz sind auf die Sprache. Und das motiviert mich noch weiter um es zu lernen! 
 
-❗ Es gibt nie nur eine Variante, aber diese Übersicht ist nicht "exhaustive" also ich gebe immer nur eine. Es ist wichtig zu verstehen das es gibt zwei Sachen die sich immer ändern: Ausprache und Schreibwise. Manchmal werden Wörten gleich geschrieben 
+❗ Es gibt nie nur eine Variante, aber diese Übersicht ist nicht "exhaustive" also ich gebe immer nur eine. Es ist wichtig zu verstehen das es gibt zwei Sachen die sich immer ändern: Ausprache und Schreibwise. Manchmal werden Wörten anders geschrieben und gleich ausgesprochen: "Ziit" oder "Zyt", manchmal wird aber auf Schweizerdeutsch etwas ausgesprochen anders als auf Hochdeutsch "lustig" schreibt man aber spricht das wie "luschtig" aus. Man kann niemanden vertrauen! ❗
 
 ## Grundlagen
 
 "Grüezi" Allgemeine Begrüssung die muss man kennen. "Hoi" oder "Sali" ist auch sehr populär. In Zürich sagt man nicht danke, aber lieber "mersi", es gibt viele andere Franzozische Begriffe die werden benutzt, so wie Velo, Trottoir oder Couver. Wenn man mehrere Leute begrüssen will, sagt man "miteinand" oder "zäme" (zusammen).
 
-Wenn man etwas brauch in der Schweiz, dann ist es sicher "öppis". Jemand wurde das sicher bereitstellen, oder "öpper" wie man hier sagen wurde. 
+Wenn man etwas brauch in der Schweiz, dann ist es sicher "öppis". Jemand wurde das sicher bereitstellen, oder "öpper" wie man hier sagen wurde. "Niemer" wird dann niemand.
+
+Man benutzt fast kein Genitiv, aber es wird schon verstanden.
 
 # Grammatik
 
@@ -75,6 +77,12 @@ Das wichtischte so dass man echt anfagen kann um zu reden.
 | 2.  | muesch | müend |
 | 3.  | mues | müend |
 
+# Irregulare Verben
+
+Kommen (cho)
+
+Es git (geben)
+
 # Regulare Verben
 
 Mehr finden sie [hier](https://www.tal-mi-or.ch/schweizerdeutsch-verben-konjugieren).
@@ -87,14 +95,16 @@ Präteritum steht uns leider nicht zum Verfügung, aber es hat Perfektum!
 | :--- | :--- | :--- |  :--- |
 | sein | gewesen | sii | gsii |
 | gehen | gegangen | go | ggange |
-| geben | gegeben | ... | ... |
-| haben | gehabt | ... | gha |
-
-
+| geben | gegeben | gebe | gä |
+| haben | gehabt | gebe | gha |
 
 ## Zukunft
 
-Gibt es nicht, aber verbverdoppelung.
+Schweizerdeutsch kennt kein Zukunft.
+
+[Podcast uber Mundart](https://www.srf.ch/radio-srf-1/mundart/schweizerdeutsche-grammatik-de-maa-dae-ich-gseh-ha-ist-das-noch-schweizerdeutsch) erklart dass man benutz so gegen (direktion irgendwo) 
+
+Gibt es nicht, aber verbverdoppelung. Lala, komt, anfangen.
 
 ## Frasen
 
@@ -107,6 +117,25 @@ Gibt es nicht, aber verbverdoppelung.
 
 # Materialen
 
-- [SRF](https://www.srf.ch/)
+Krashen's Comprehensible Input hypothesis [here](https://www.sdkrashen.com/content/articles/case_for_comprehensible_input.pdf)
 
+[SRF](https://www.srf.ch/) isch goat.
+
+## Podcasts
+- [SRF Tagesgespräch](https://www.srf.ch/audio/tagesgespraech)
+- [SRF Input](https://www.srf.ch/audio/input)
+- [Finanz Fabio](https://www.finanzfabio.ch/podcasts/)
+- [Thronfolge](https://www.diethronfolge.ch/)
+
+## 
+- [SRF Mona Mittendrin](https://www.srf.ch/play/tv/sendung/mona-mittendrin?id=c4cc1736-da30-4563-ab01-42a3b07231d1)
+- [SRF Donat auf Achse](https://www.srf.ch/play/tv/sendung/donat-auf-achse?id=c64aac20-c380-4f26-b795-dfe79436d4e1)
+- [SRF Game of Switzerland](https://www.srf.ch/play/tv/sendung/game-of-switzerland?id=7d55af79-afd0-4dec-93e8-f6e2c4043842)
+
+##
+- [Interessente Blog](https://unterricht.phwa.ch/grammatik-des-schweizerdeutschen/)
+- 
+
+## Highlight Lieder
+D w nuss von bumpliz
 
