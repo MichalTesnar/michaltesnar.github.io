@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-dream-sold-to-the-most-ambitious-my-take-on-the-yc-visit-to-eth",
+        },{id: "post-skiing",
+        
+          title: "Skiing",
+        
+        description: "How I once gone skiing, great results.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/skiing/";
+          
+        },
+      },{id: "post-dream-sold-to-the-most-ambitious-my-take-on-the-yc-visit-to-eth",
         
           title: "Dream Sold to the Most Ambitious: My Take on the YC Visit to...",
         
