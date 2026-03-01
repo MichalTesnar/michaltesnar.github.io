@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-skiing",
+        },{id: "post-farewells",
+        
+          title: "Farewells",
+        
+        description: "Time flies like an arrow.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/farewells/";
+          
+        },
+      },{id: "post-skiing",
         
           title: "Skiing",
         
