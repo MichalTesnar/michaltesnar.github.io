@@ -23,11 +23,11 @@ Ich merke auch schon das Schweizerdeutsch als "cool" gesehen wird, es wird viel 
 
 "Grüezi" Allgemeine Begrüssung die muss man kennen. "Hoi" oder "Sali" ist auch sehr populär. In Zürich sagt man nicht danke, aber lieber "mersi", es gibt viele andere Franzozische Begriffe die werden benutzt, so wie Velo, Trottoir oder Couver. Wenn man mehrere Leute begrüssen will, sagt man "miteinand" oder "zäme" (zusammen).
 
-Wenn man etwas brauch in der Schweiz, dann ist es sicher "öppis". Jemand wurde das sicher bereitstellen, oder "öpper" wie man hier sagen wurde. "Niemer" wird dann niemand.
-
-Man benutzt fast kein Genitiv, aber es wird schon verstanden.
+Wenn man etwas brauch in der Schweiz, dann ist es sicher "öppis". Jemand wurde das sicher bereitstellen, oder "öpper" wie man hier sagen wurde. "Niemer" wird dann niemand. Schweizerdeutsch ist nicht schweirig, sondern "ez bizeli streng".
 
 # Grammatik
+
+Man benutzt fast kein Genitiv, aber es wird schon verstanden.
 
 ## Pronomen
 
@@ -83,6 +83,8 @@ Kommen (cho)
 
 Es git (geben)
 
+Lassen (lah)
+
 # Regulare Verben
 
 Mehr finden sie [hier](https://www.tal-mi-or.ch/schweizerdeutsch-verben-konjugieren).
@@ -136,6 +138,14 @@ Krashen's Comprehensible Input hypothesis [here](https://www.sdkrashen.com/conte
 - [Interessente Blog](https://unterricht.phwa.ch/grammatik-des-schweizerdeutschen/)
 - 
 
+Was mir fehlt ist Lubach, das beste das ich gefunden haben [Die Sendung des Monats](https://www.srf.ch/play/tv/sendung/die-sendung-des-monats?id=6f5b13b5-a951-41fe-83c5-0cd77c110c66)
+
+
+# Dialekte die es Gibt
+- [Das Chochichästli-Orakel](https://from.ch/dialects/)
+- [Sprachatlas](https://sprachatlas.ch/karten)
+
 ## Highlight Lieder
-D w nuss von bumpliz
+- [W. Nuss vo Bümpliz by Patent Ochsner](https://open.spotify.com/track/2wwmqAUc7XDvXaNQzLHTDP)
+- [079 by Lo & Leduc](https://open.spotify.com/track/3dfCKQy9JY2ixI58zTeUn9)
 
