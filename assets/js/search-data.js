@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-farewells",
+        },{id: "post-first-work-experiences",
+        
+          title: "First Work Experiences",
+        
+        description: "Working is fun.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/work-experience/";
+          
+        },
+      },{id: "post-farewells",
         
           title: "Farewells",
         
