@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-first-work-experiences",
+        },{id: "post-spontaneous-trip-to-paris",
+        
+          title: "Spontaneous Trip to Paris",
+        
+        description: "36 hours in Paris.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/paris/";
+          
+        },
+      },{id: "post-first-work-experiences",
         
           title: "First Work Experiences",
         
