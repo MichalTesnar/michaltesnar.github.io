@@ -34,11 +34,11 @@ WG stands for 'Wohngemeinschaft,' a shared flat. This is the go-to website where
 
 ### [wohnen.ethz](https://www.wohnen.ethz.ch/)
 
-This is the official website of the universities in Zurich. You can only register if you are a student. There are fewer offers but also fewer people responding, so you might be able to get through more easily. I got my first place through here.
+This is the official website of the universities in Zurich. You can only register if you are a student. There are fewer offers but also fewer people responding, so you might be able to get through more easily. I got my first place through here. Interestingly enough, this same institution has an [email](zimmervermittlung@ethz.ch) which you can try to spam and ask for housing. For some people it works, and they get pretty good places at WoKos (more on that later).
 
 ### [FlatFox](https://flatfox.ch/)
 
-One of the major housing advertising websites for the whole of Switzerland. It targets a broader market: also big flats and houses are offered there. Many offers, but also many respondents. Very tough to get through. I got some offers through there, but the ones from the previous two were better. But it’s certainly good to keep an eye on this website.
+One of the major housing advertising websites for the whole of Switzerland. It targets a broader market: also big flats and houses are offered there. Many offers, but also many respondents. Very tough to get through. I got some offers through there, but the ones from the previous two were better. But it’s certainly good to keep an eye on this website. 
 
 ### Subsidized Housing
 
