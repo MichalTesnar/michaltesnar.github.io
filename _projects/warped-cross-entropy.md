@@ -64,3 +64,5 @@ Main thing I would like to figure out if you can actually make use of this in hi
 Secondly, I would like to compare this to encoding classes using binary codes and doing binary entropy on each component of that (Gemini suggested that again).
 
 Well, this is it for now. I hope you have enjoyed the read! You can find the code on [GitHub](https://github.com/MichalTesnar/WarpedCrossEntropy).
+
+_Update_: Seems that similar concepts are expressed as _angular margin loss_ which defines class separation in angle, see [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_ArcFace_Additive_Angular_Margin_Loss_for_Deep_Face_Recognition_CVPR_2019_paper.pdf). So this is a heavily explored topics. However, according to [this paper](https://arxiv.org/pdf/2510.14824) it is not beneficial for LLMs, so it seems we will stick to cross-entropy there.
