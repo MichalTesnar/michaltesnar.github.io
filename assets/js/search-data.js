@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-the-4th-industrial-revolution-how-everything-will-be-automated",
+        },{id: "post-side-quests-and-other-fun",
+        
+          title: "Side Quests and Other Fun",
+        
+        description: "Having a bit of free time again is crazy.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/zmitzdrin/";
+          
+        },
+      },{id: "post-the-4th-industrial-revolution-how-everything-will-be-automated",
         
           title: "The 4th Industrial Revolution: How Everything Will Be Automated",
         
