@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-side-quests-and-other-fun",
+        },{id: "post-backpockets",
+        
+          title: "Backpockets",
+        
+        description: "The most undervalued resource of humanity.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/backpockets/";
+          
+        },
+      },{id: "post-side-quests-and-other-fun",
         
           title: "Side Quests and Other Fun",
         
