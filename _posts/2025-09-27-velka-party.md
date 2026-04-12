@@ -21,7 +21,3 @@ Takže tolik zprávy od mě. Asi si dám šlofíka, dneska toho už asi moc nevy
 Mějte se famfárově.
 
 Michal
-
-
-
-

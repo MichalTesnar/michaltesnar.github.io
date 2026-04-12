@@ -6,7 +6,7 @@ description: Finding housing on a tight budget is more difficult than it sounds.
 categories: guides
 ---
 
-*I will try to keep the English version of this blog post up to date if I have new observations.*
+_I will try to keep the English version of this blog post up to date if I have new observations._
 
 I was discussing the other day with a friend of mine how much we miss our social circles from our bachelor studies and high schools. He, coming from Germany and doing his bachelor’s in the UK, had to rebuild his network twice (almost) from scratch. I, coming from a similar experience moving from Czechia to the Netherlands and finally arriving here in Switzerland, agree that it poses many challenges. To describe it, my friend came up with a nice analogy.
 
@@ -38,7 +38,7 @@ This is the official website of the universities in Zurich. You can only registe
 
 ### [FlatFox](https://flatfox.ch/)
 
-One of the major housing advertising websites for the whole of Switzerland. It targets a broader market: also big flats and houses are offered there. Many offers, but also many respondents. Very tough to get through. I got some offers through there, but the ones from the previous two were better. But it’s certainly good to keep an eye on this website. 
+One of the major housing advertising websites for the whole of Switzerland. It targets a broader market: also big flats and houses are offered there. Many offers, but also many respondents. Very tough to get through. I got some offers through there, but the ones from the previous two were better. But it’s certainly good to keep an eye on this website.
 
 ### Subsidized Housing
 
