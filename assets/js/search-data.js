@@ -367,6 +367,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/1000_brains_theory/";
+            },},{id: "books-die-vierte-industrielle-revolution",
+          title: 'Die Vierte Industrielle Revolution',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/vierte_industrielle_revolution/";
             },},{id: "news-i-created-this-new-blog-from-a-template-from-now-on-i-will-try-to-keep-it-up-to-date-as-a-personal-portfolio-blog-as-well-as-cv-and-publication-list",
           title: 'I created this new blog from a template! From now on I will...',
           description: "",
