@@ -23,6 +23,7 @@ This seems like such a waste of space. You just one hot encode the stuff, that i
 I decided to see if I can do this differently. For illustrative purposes, here I have chosen the MNIST problem. I am doing this on my personal laptop, and I do not have a GPU, so it goes pretty slow. MNIST has 10 classes and just cause it is nice to visualize, I decided to solve it in 3 dimensions.
 
 ## Optimal Vectors
+
 So how do we do this? How do we find the best vectors for our space? We want vectors that are as distinct as possible from each other, however still fit into a small amount of dimensions. We are interested in predicting normalized vectors, since what interest us is the direction not the magnitude. Therefore our problem is:
 
 > How to obtain $k$ unit vectors in $n$ dimensions such that they are aligned the least possible?
@@ -37,7 +38,7 @@ To test this idea out, and I decided to compare this to normal CrossEntropy and 
 
 ## Results
 
-Long story short, I took one layer MLP with ReLU, the size of the latent space is 64 and then I project onto 10 classes and train using normal CrossEntropyLoss. For WarpedCrossEntropy, I project only onto 3 dimensions. Here are the loss training curves. 
+Long story short, I took one layer MLP with ReLU, the size of the latent space is 64 and then I project onto 10 classes and train using normal CrossEntropyLoss. For WarpedCrossEntropy, I project only onto 3 dimensions. Here are the loss training curves.
 
 {% include figure.liquid loading="eager" path="assets/img/projects/warpedcrossentropy/training_Regime.NORMAL.png" class="img-fluid rounded z-depth-1" width="500" alt="Cross Entropy Results" %}
 {% include figure.liquid loading="eager" path="assets/img/projects/warpedcrossentropy/training_Regime.WARPED.png" class="img-fluid rounded z-depth-1" width="500" alt="Warped Cross Entropy Results" %}
@@ -45,9 +46,9 @@ Long story short, I took one layer MLP with ReLU, the size of the latent space i
 We can see, that the training with WarpedCrossEntropy takes a lot more time. Also the losses are not really comparable in magnitude. However, they both seem to be training. Finally, I have compared the performance of those runs on test data by looking at the closest vector in label class.
 
 | Cross Entropy Loss Function | Epoch | Accuracy |
-| :--- | :--- | :--- |
-| `Normal` | 5 | 97.06 % |
-| `Warped` | 50 | 96.39 % |
+| :-------------------------- | :---- | :------- |
+| `Normal`                    | 5     | 97.06 %  |
+| `Warped`                    | 50    | 96.39 %  |
 
 Well, honestly, not too bad! It seems that the methods works! Actual parameter reduction is very small, we only get some on the final layer, but we have to train those before we fixed them, so it does not really make that much sense.
 
