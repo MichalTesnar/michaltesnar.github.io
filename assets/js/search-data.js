@@ -388,6 +388,11 @@ ninja.data = [{
           description: "Most beautiful language of the world!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ch-deutsch/";
+            },},{id: "projects-puzzle-solving-with-diffusion",
+          title: 'Puzzle Solving with Diffusion',
+          description: "Reasoning step by step to solve puzzles of big sizes, and maybe generalize...?",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/diffusion/";
             },},{id: "projects-warped-cross-entropy",
           title: 'Warped Cross Entropy',
           description: "Maybe categorical cross entropy is not the only way to go!",
