@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-backpockets",
+        },{id: "post-the-difficulties-of-being-a-tourist",
+        
+          title: "The Difficulties of Being a Tourist",
+        
+        description: "And why I really do not want to be one ever again...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/tourists/";
+          
+        },
+      },{id: "post-backpockets",
         
           title: "Backpockets",
         
