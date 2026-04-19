@@ -92,7 +92,7 @@ This actually hit me after I have presented the research to the DISCO group. The
 
 > Consider the following example grid, and try to resolve whether there is a tent in the top left corner. The top row is empty/tree/empty/tree/empty/tree/empty. Rest of grid is empty, but the row specifies there should be only 3 tents. The rest of the grid is empty, except for the row for one column, which has a tent in it, and the rows around it specify where. To resolve the top row, one first needs to place this bottom tent and then propagate that information onto the top row. This shows that solving the top left cell is a difficult constraint satisfaction problem, which can be adversarially scaled to make up an example which needs more and more compute. As we cannot trust the logits of the model to help us decide with confidence and do the solution step by step, the complexity certainly grows with the grid as the problem is not local.
 
-WOW! What a blast! Suddenly we see that what we set out to do, is basically impossible. However, you might be thinking, how come LLMs do so well, solving difficult problems, which are certainly NP-hard/complete or whatever? My answer to this is simple.
+WOW! What a blast! Suddenly we see that what we set out to do, is basically impossible. However, you might be thinking, how come LLMs do so well, solving difficult problems, which are certainly NP-hard/complete or whatever (given a finite context window, i.e. finite expressive power)? My answer to this is simple.
 
 _Language._
 
