@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-the-difficulties-of-being-a-tourist",
+        },{id: "post-relative-poverty-a-personal-record",
+        
+          title: "Relative Poverty: A Personal Record",
+        
+        description: "A reminder I want to keep for myself.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/poverty/";
+          
+        },
+      },{id: "post-the-difficulties-of-being-a-tourist",
         
           title: "The Difficulties of Being a Tourist",
         
