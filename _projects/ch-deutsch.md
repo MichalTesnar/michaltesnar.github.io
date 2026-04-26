@@ -104,7 +104,7 @@ Präteritum steht uns leider nicht zum Verfügung, aber es hat Perfektum!
 
 Schweizerdeutsch kennt kein Zukunft.
 
-[Podcast uber Mundart](https://www.srf.ch/radio-srf-1/mundart/schweizerdeutsche-grammatik-de-maa-dae-ich-gseh-ha-ist-das-noch-schweizerdeutsch) erklart dass man benutz so gegen (direktion irgendwo)
+Podcast [Dini Mundart](https://www.srf.ch/radio-srf-1/mundart/)
 
 Gibt es nicht, aber verbverdoppelung. Lala, komt, anfangen.
 
@@ -139,7 +139,6 @@ Krashen's Comprehensible Input hypothesis [here](https://www.sdkrashen.com/conte
 ##
 
 - [Interessente Blog](https://unterricht.phwa.ch/grammatik-des-schweizerdeutschen/)
--
 
 Was mir fehlt ist Lubach, das beste das ich gefunden haben [Die Sendung des Monats](https://www.srf.ch/play/tv/sendung/die-sendung-des-monats?id=6f5b13b5-a951-41fe-83c5-0cd77c110c66)
 
