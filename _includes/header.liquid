@@ -58,8 +58,15 @@
 
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
+          {% assign cv_inserted = false %}
           {% for p in sorted_pages %}
             {% if p.nav and p.autogen == null %}
+              {% if cv_inserted == false and p.nav_order >= 5 %}
+                <li class="nav-item">
+                  <a class="nav-link" href="{{ '/assets/pdf/resume.pdf' | relative_url }}">cv</a>
+                </li>
+                {% assign cv_inserted = true %}
+              {% endif %}
               {% if p.dropdown %}
                 {% assign has_active_child = false %}
                 {% for child in p.children %}
@@ -117,6 +124,11 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+          {% if cv_inserted == false %}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ '/assets/pdf/resume.pdf' | relative_url }}">cv</a>
+            </li>
+          {% endif %}
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
