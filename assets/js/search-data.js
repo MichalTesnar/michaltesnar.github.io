@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-relative-poverty-a-personal-record",
+        },{id: "post-more-ai",
+        
+          title: "More AI",
+        
+        description: "Basically the only thing I think about.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/more-ai/";
+          
+        },
+      },{id: "post-relative-poverty-a-personal-record",
         
           title: "Relative Poverty: A Personal Record",
         
