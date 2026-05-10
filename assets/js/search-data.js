@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-more-ai",
+        },{id: "post-why-i-will-never-be-famous",
+        
+          title: "Why I will never be famous.",
+        
+        description: "Cause even if I could, I actually cannot.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/fame-and-anxiety/";
+          
+        },
+      },{id: "post-more-ai",
         
           title: "More AI",
         
