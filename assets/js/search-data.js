@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-why-i-will-never-be-famous",
+        },{id: "post-self-re-invention-innovation-in-every-circumstance",
+        
+          title: "Self-Re-Invention: Innovation in Every Circumstance",
+        
+        description: "Cause the yesterday&#39;s me is not the me of today.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/new-is-better/";
+          
+        },
+      },{id: "post-why-i-will-never-be-famous",
         
           title: "Why I will never be famous.",
         
