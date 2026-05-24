@@ -21,3 +21,5 @@ So I will keep reinventing myself. My habits always stick half a year, sometimes
 The Dutch have a slendid word for this: "houvast", something to hold on to. It can be anything, it is your basis. Sometimes you are searching to what you can hold on to. And you always find, eventually, but it always goes aways. So that you can find the next thing, and that is beautiful.
 
 I will try to embrace it. This blog. Has changed 3 times already. 3 platforms. And we keep going. Same me. 5 years older. We keep pushing. Same person. Different at every moment. Isn't it quite poetic?
+
+PS: Maybe the best answer is no answer. This is why I think that investment in index works so well. You do not know what will work, you just know something will work, and that is good enough.

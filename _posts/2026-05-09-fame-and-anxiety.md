@@ -8,11 +8,11 @@ categories: weekly-blog
 
 Hey, everyone. Hope you are having a splendid weekend! A lot has happened since I was last writing here, and it is tough to be able to desribe everything that I am thinking about!
 
-I have had an amazing weekend spend with my friend Olek who visited me from Netherlands, and went to make Chocolate in Lindt.
+I spent an amazing weekend spend with my friend Olek who visited me from Netherlands, and went to make Chocolate in Lindt.
 
 {% include figure.liquid loading="eager" path="assets/img/blog/chocolate.jpeg" class="img-fluid rounded z-depth-1 mx-auto d-block" width="400" height="200" alt="Chocolate is good." %}
 
-We had a wonderful time to revisiting nostalgically the times we had back in Groningen, and just discussing how we view life, professional and personal, as of now. I feel extremely grateful for these precious moments!
+We had a wonderful time revisiting nostalgically the times we had back in Groningen, and just discussing how we view life, professional and personal, as of now. I feel extremely grateful for these precious moments!
 
 During his visit, we took a short swing by a Czechoslovak party, where I met these beautiful people.
 

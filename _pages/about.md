@@ -29,3 +29,5 @@ Hello, welcome! Here you can find all about what I do and what I think. This mea
 I am currently a master student of Data Science at ETH Zürich, and I also live in the Zürich area in Switzerland. I am super curious about where the world is going and how to live a meaningful life in it.
 
 PS: To stay authentic I decided to stop using autocorrect/AI to write my texts. Super happy if you report typos to me :)
+
+Disclaimer: Anything written on this page are just my own opinions, and does not represent opinions of any of my past, current or future employers.
