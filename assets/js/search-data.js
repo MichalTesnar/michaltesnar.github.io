@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-self-re-invention-innovation-in-every-circumstance",
+        },{id: "post-life",
+        
+          title: "Life",
+        
+        description: "Goes on.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/life/";
+          
+        },
+      },{id: "post-self-re-invention-innovation-in-every-circumstance",
         
           title: "Self-Re-Invention: Innovation in Every Circumstance",
         
