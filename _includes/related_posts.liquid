@@ -1,5 +1,15 @@
+{% assign max_related = site.related_blog_posts.max_related %}
+{% assign collection_posts = site[page.collection] | sort: 'date' | reverse %}
 {% assign have_related_posts = false %}
-{% for post in site.related_posts | limit: site.related_blog_posts.max_related %}
+{% assign shown = 0 %}
+{% for post in collection_posts %}
+  {% if post.url == page.url %}
+    {% continue %}
+  {% endif %}
+  {% if shown >= max_related %}
+    {% break %}
+  {% endif %}
+
   {% unless have_related_posts %}
     {% assign have_related_posts = true %}
     {% if page.layout == 'post' %}
@@ -29,6 +39,7 @@
       <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="{{ post.redirect | relative_url }}">{{ post.title }}</a>
     {% endif %}
   </li>
+  {% assign shown = shown | plus: 1 %}
 {% endfor %}
 {% if site.newsletter.enabled and site.footer_fixed %}
   {% include newsletter.liquid left=true %}

@@ -4,7 +4,6 @@ title: Warped Cross Entropy
 description: Maybe categorical cross entropy is not the only way to go!
 img: assets/img/projects/warpedcrossentropy/warpedcrossentropy.png
 importance: 1
-category: fun
 related_publications: false
 ---
 

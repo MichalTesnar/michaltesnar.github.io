@@ -4,17 +4,20 @@ title: Swiss German
 description: Most beautiful language of the world!
 img: assets/img/projects/chdeutsch/cross.jpg
 importance: 1
-category: fun
 related_publications: false
 ---
 
-🚧🚧🚧 PROJECT IN PROGRESS! 🚧🚧🚧 I will keep updating this post as I keep learning!
+My personal hobby since I came to the Zürich Valley has been to learn the local language. Naively I thought from the begging that I could get around with just classic high German, but it turns out if you speak that on the street you are as much of a local as somebody just speaking plain English. So, I embarked on a journey to learn Swiss German. Here I would like to capture what I have learned: what it takes to sound like true Swiss, or even like a 'bünzli'. What that means and more follows. I love learning languages, but I never document my findings, but this time, I decided to make a change to keep at least some notes.
 
-My personal hobby since I came to the Zürich Valley has been to learn the local language. Naively I thought from the begging that I could get around with just classic high German, but it turns out if you speak that on the street you are as much of a local as somebody just speaking plain English. So, I embarked on a journey to learn Swiss German. Here I would like to capture what I have learned: what it takes to sound like true Swiss, or even like a 'bünzli'. What that means and more follows. Since to learn Swiss German you need at least basic knowledge of German, I will continue here in German (the explanations will also make more sense that way). Los geht's!
+Since to learn Swiss German you need at least basic knowledge of German, I will continue here in German (the explanations will also make more sense that way). Los geht's!
 
 ## Schönste Sprache der Welt!
 
-Was? Was würde Schweizerdeutsch so schön machen? Ganz einfach, es hat extrem viel Emotion drin. Alles das offiziel ist wird ausgedrück in der Schweiz auf Schweizerhochdeutch. Wenn man aber über Schwiizerdüütch redet dann geht es um Mundart: keine Regulationen, man kann einfach ausdrücken was man in den Moment. fühlt. Richtig und falsch gibt es nicht. Das macht das auch schwierig fürs Studium, wie spricht man korrekt wenn es keine rightige Weise gibt? Man muss einfach probieren! Ich werde mich hier konzentrieren auf Deutsch aus Zürich, aka Züridüütsch, aber auch auf ganz algemeine Ausdrücke. Mein Ziel? Nachdem du dieses Blog gelesen hast kannst du einfache Gesprache halten auf Schweizerdeutsch und anfangen sich in der Schweizerische gesselschaft zu integrieren.
+Was? Warum ist Schweizerdeutsch so schön? Ganz einfach, es hat extrem viel Emotion drin. Alles das offiziel ist wird ausgedrück in der Schweiz auf Schweizerhochdeutch. Wenn man aber über Schwiizerdüütch redet dann geht es um Mundart: keine Regulationen, man kann einfach ausdrücken was man in den Moment fühlt. Richtig und falsch gibt es nicht im gesprochere. Diese Zweiseitigkeit - einserseits schreibt man sehr offiziel aber redet dann ganz anders -- heisst Diglossie.
+
+Das macht schwierig fürs Studium, wie spricht man korrekt wenn es keine rightige Weise gibt? Man muss einfach probieren!
+
+Ich werde mich hier konzentrieren auf Deutsch aus Zürich, aka Züridüütsch, aber auch auf ganz algemeine Ausdrücke. Mein Ziel? Nachdem du dieses Blog gelesen hast kannst du einfache Gesprache halten auf Schweizerdeutsch und anfangen sich in der Schweizerische gesselschaft zu integrieren.
 
 Ich merke auch schon das Schweizerdeutsch als "cool" gesehen wird, es wird viel in Werbungen benutzt und wirkt irgendwie Nationalistisch und man spürt schon dass die Schweizer stolz sind auf die Sprache. Und das motiviert mich noch weiter um es zu lernen!
 

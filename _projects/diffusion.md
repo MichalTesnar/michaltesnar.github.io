@@ -4,7 +4,6 @@ title: Puzzle Solving with Diffusion
 description: "Reasoning step by step to solve puzzles of big sizes, and maybe generalize...?"
 img: assets/img/projects/diffusion/main.png
 importance: 1
-category: fun
 related_publications: false
 ---
 
