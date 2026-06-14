@@ -170,6 +170,11 @@ collections:
 # Jekyll settings
 # -----------------------------------------------------------------------------
 
+# Build: publish posts whose date is "in the future" relative to build time.
+# GitHub Pages builds in UTC, so a post dated e.g. 14:00 on the day you push
+# (committed ~13:12 UTC) counts as future-dated and would otherwise be dropped.
+future: true
+
 # Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge
