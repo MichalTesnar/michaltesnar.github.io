@@ -16,16 +16,23 @@ Interaction](https://arxiv.org/pdf/2406.19108), from which I will be citing here
 Let's take this experiment apart, cause the beautiful thing about this is shows that with computation you can make alive things from dead things. For this, define a minimal programming language, BFF, with two heads. This is then executed left to right: the second head is a write head so that the program can write over itself.
 
 ```
-< head0 = head0 - 1
-> head0 = head0 + 1
-{ head1 = head1 - 1
-} head1 = head1 + 1
-- tape[head0] = tape[head0] - 1
-+ tape[head0] = tape[head0] + 1
-. tape[head1] = tape[head0]
-, tape[head0] = tape[head1]
-[ if (tape[head0] == 0): jump forwards to matching ] command.
-] if (tape[head0] != 0): jump backwards to matching [ command.
+# move a head
+<   head0 = head0 - 1
+>   head0 = head0 + 1
+{   head1 = head1 - 1
+}   head1 = head1 + 1
+
+# edit the byte under head0
+-   tape[head0] = tape[head0] - 1
++   tape[head0] = tape[head0] + 1
+
+# copy a byte between heads
+.   tape[head1] = tape[head0]
+,   tape[head0] = tape[head1]
+
+# branch on the byte under head0
+[   if (tape[head0] == 0): jump forwards  to matching ]
+]   if (tape[head0] != 0): jump backwards to matching [
 ```
 
 We start with random instructions on the tapes, call two of them A and B. Then we merge them, execute them and split them, put them back to the soup.
@@ -38,7 +45,7 @@ where we take random ordering for A and B. Notably A is either first or second t
 
 The headline finding: if you do this long enough, you will get replicating programs out. _That is CRAZY!_ You start with random bytes, you can evolve bytes that replicate themselves. Blaise says that this is not that surprising: what you get out is exactly what replicates. The model biases us to see this. The bigger finding discussed in the book is that _this is what life is about_: thermodynamics supplies computation and what stays are structures that are dynamically stable = reproduce, i.e. life. Wow! This usually comes in explosions: you see nothing, until there are some replicators, and then you see many replicators very suddenly!
 
-{% include figure.liquid loading="eager" path="assets/img/projects/cubff/paper_fig.png" class="img-fluid rounded z-depth-1" width="700" alt="Transition in the paper." %}
+{% include figure.liquid loading="eager" path="assets/img/projects/cubff/paper_fig.png" class="img-fluid rounded z-depth-1" alt="Transition in the paper." %}
 
 By extension, in "What is Intelligence", it is argued that intelligence is ability to predict your environment and yourself. This helps you replicate, and that is why we develop it.
 
@@ -52,7 +59,7 @@ S + F -> split(exec(SF)) = 2*S
 
 I was replicating these experiments, and this is exactly what we find. I tracked the bytes that go from the A part of the string to the B part, and vice versa (given where heads are, and which way do the writes apply). And we can see that we copy mostly from A to B, in this order, especially when the number of operations explodes (the transition on the paper). You can see this on the plot below.
 
-{% include figure.liquid loading="eager" path="assets/img/projects/cubff/firstmover_log.png" class="img-fluid rounded z-depth-1" width="700" alt="Bytes copied A→B vs B→A per epoch on a log scale: the A→B flow dominates and spikes at emergence" %}
+{% include figure.liquid loading="eager" path="assets/img/projects/cubff/firstmover_log.png" class="img-fluid rounded z-depth-1" alt="Bytes copied A→B vs B→A per epoch on a log scale: the A→B flow dominates and spikes at emergence" %}
 
 To satisfy my rightiousness, I had to change the experiment: we duplicate the number of operations, each string gets to be first and second.
 
@@ -68,12 +75,14 @@ Same experiment, two nice properties:
 
 Most importantly, redoing the experiments still shows that this works! We still get replication!
 
-{% include figure.liquid loading="eager" path="assets/img/projects/cubff/symmetric_replication.png" class="img-fluid rounded z-depth-1" width="700" alt="Symmetric pairing seed 4: self-replicators spike to ~120k as Brotli size collapses, showing replication still emerges" %}
+{% include figure.liquid loading="eager" path="assets/img/projects/cubff/symmetric_replication.png" class="img-fluid rounded z-depth-1" alt="Symmetric pairing seed 4: self-replicators spike to ~120k as Brotli size collapses, showing replication still emerges" %}
 
 I previously made two attempts at creating replication, neither of which worked:
 
 - Concatenate A + B, but put the instruction pointer randomly onto the tape. This does not produce life. The programs do not wrap around. I guess this makes sense, our DNA does neither.
 - Using two instruction pointers, one at the beggining of A, and one at the beginning of B, then doing interleaved execution. This also did not show life.
+
+My fork of the orignal repo can be found on [GitHub](https://github.com/MichalTesnar/cubff).
 
 # Main Open Question
 
