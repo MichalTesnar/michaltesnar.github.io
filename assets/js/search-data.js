@@ -255,6 +255,11 @@ ninja.data = [{
           description: "Most beautiful language of the world!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ch-deutsch/";
+            },},{id: "projects-computational-evolution",
+          title: 'Computational Evolution',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cubff/";
             },},{id: "projects-puzzle-solving-with-diffusion",
           title: 'Puzzle Solving with Diffusion',
           description: "Reasoning step by step to solve puzzles of big sizes, and maybe generalize...?",
