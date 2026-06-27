@@ -13,7 +13,7 @@ Interaction](https://arxiv.org/pdf/2406.19108), from which I will be citing here
 
 # Life Experiment
 
-Let's take this experiment apart, cause the beautiful thing about this is shows that with computation you can make alive things from dead things. For this, define a minimal programming language, BFF, with two heads. This is then executed left to right: the second head is a write head so that the program can write over itself.
+Let's take this experiment apart, cause the beautiful thing about this shows that with computation you can make alive things from dead things. For this, define a minimal programming language, BFF, with two heads. This is then executed left to right: the second head is a write head so that the program can write over itself.
 
 ```
 # move a head
