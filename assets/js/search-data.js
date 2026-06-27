@@ -64,6 +64,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/vierte_industrielle_revolution/";
+            },},{id: "books-what-is-intelligence",
+          title: 'What is Intelligence?',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/what_is_intelligence/";
             },},{id: "news-i-created-this-new-blog-from-a-template-from-now-on-i-will-try-to-keep-it-up-to-date-as-a-personal-portfolio-blog-as-well-as-cv-and-publication-list",
           title: 'I created this new blog from a template! From now on I will...',
           description: "",
