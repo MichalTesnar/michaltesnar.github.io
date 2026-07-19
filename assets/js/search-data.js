@@ -135,6 +135,11 @@ ninja.data = [{
           description: "`Claude &#39;give me back my future&#39;`",
           section: "Posts_blog",handler: () => {
               window.location.href = "/blog/2026/claude-future/";
+            },},{id: "posts_blog-why-i-write-my-blog",
+          title: 'Why I Write My Blog',
+          description: "",
+          section: "Posts_blog",handler: () => {
+              window.location.href = "/blog/2026/blog-how-and-why/";
             },},{id: "posts_diary-domov-číslo-čtyři",
           title: 'Domov číslo čtyři',
           description: "A kde žiju teď? A s kým?",
