@@ -19,4 +19,4 @@ It is terribly easy to fool yourself into liking things you are good at and bein
 
 In the meantime, I believe that _Ježek, Voskovec, and Werich_ had it right from the start: _"who loves in their life should not lose hope"_. If you love what you're doing, no need to lose hope. You might not rise above the mean, or not even above the median, but you gonna have a great time.
 
-PS: Excuse the non-rigorous use of English in the article.
+PS: Excuse the non-rigorous use of math in the article.
