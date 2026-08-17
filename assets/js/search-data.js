@@ -140,6 +140,11 @@ ninja.data = [{
           description: "",
           section: "Posts_blog",handler: () => {
               window.location.href = "/blog/2026/blog-how-and-why/";
+            },},{id: "posts_blog-start-up-culture-martingales-and-why-vibes-matter-statistical-view-of-life",
+          title: 'Start-Up Culture, Martingales, and Why Vibes Matter: Statistical View of Life',
+          description: "Why you will not get what you want with high probability.",
+          section: "Posts_blog",handler: () => {
+              window.location.href = "/blog/2026/random-life/";
             },},{id: "posts_diary-domov-číslo-čtyři",
           title: 'Domov číslo čtyři',
           description: "A kde žiju teď? A s kým?",
