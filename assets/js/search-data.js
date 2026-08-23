@@ -260,19 +260,24 @@ ninja.data = [{
           description: "Goes on.",
           section: "Posts_diary",handler: () => {
               window.location.href = "/blog/2026/life/";
+            },},{id: "projects-arc-agi-3-with-language-and-without",
+          title: 'ARC-AGI-3 with Language and Without',
+          description: "Is logical reasoning even possible without massive priors?",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/arcv3/";
             },},{id: "projects-auto-house",
           title: 'auto-house',
           description: "Agent that finds you housing in the Zürich area.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/auto-house/";
-            },},{id: "projects-swiss-german",
-          title: 'Swiss German',
-          description: "Most beautiful language of the world!",
+            },},{id: "projects-schwiizerdütsch",
+          title: 'Schwiizerdütsch',
+          description: "Uuserordentlichi Sprach und vielfaltigi Dialekte!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ch-deutsch/";
             },},{id: "projects-computational-evolution",
           title: 'Computational Evolution',
-          description: "",
+          description: "How to make artificial life from nothing...!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cubff/";
             },},{id: "projects-puzzle-solving-with-diffusion",
