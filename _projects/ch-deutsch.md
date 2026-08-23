@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Swiss German
-description: Most beautiful language of the world!
+title: Schwiizerdütsch
+description: Uuserordentlichi Sprach und vielfaltigi Dialekte!
 img: assets/img/projects/chdeutsch/cross.jpg
 importance: 1
 related_publications: false
 ---
 
 My personal hobby since I came to the Zürich Valley has been to learn the local language. Naively I thought from the begging that I could get around with just classic high German, but it turns out if you speak that on the street you are as much of a local as somebody just speaking plain English. So, I embarked on a journey to learn Swiss German. Here I would like to capture what I have learned: what it takes to sound like true Swiss, or even like a 'bünzli'. What that means and more follows. I love learning languages, but I never document my findings, but this time, I decided to make a change to keep at least some notes.
+
+It also happens that during my journey, I was able to take part in a documentary on the Swiss national TV about [expats in Switzerland](https://www.youtube.com/watch?v=yWaEXoa9kt4). It was a great pleasure to represent our community!
 
 Since to learn Swiss German you need at least basic knowledge of German, I will continue here in German (the explanations will also make more sense that way). Los geht's!
 
@@ -113,8 +115,6 @@ Präteritum steht uns leider nicht zum Verfügung, aber es hat Perfektum!
 
 Schweizerdeutsch kennt kein Zukunft.
 
-Podcast [Dini Mundart](https://www.srf.ch/radio-srf-1/mundart/)
-
 ## Verbverdoppelung.
 
 Gibt es nicht, aber verbverdoppelung. Lala, komt, anfangen.
@@ -138,6 +138,7 @@ Ich bin e grossi Fan von Krashen's Comprehensible Input hypothesis [here](https:
 - [SRF Tagesgespräch](https://www.srf.ch/audio/tagesgespraech)
 - [SRF Input](https://www.srf.ch/audio/input)
 - [Die Sendung des Monats](https://www.srf.ch/play/tv/sendung/die-sendung-des-monats?id=6f5b13b5-a951-41fe-83c5-0cd77c110c66): Was mir fehlt ist Lubach, das beste das ich gefunden haben
+- Podcast [Dini Mundart](https://www.srf.ch/radio-srf-1/mundart/)
 
 ## TV Shows
 

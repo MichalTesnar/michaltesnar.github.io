@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computational Evolution
-description:
+description: How to make artificial life from nothing...!
 img: assets/img/projects/cubff/brain_tree.png
 importance: 1
 related_publications: false
