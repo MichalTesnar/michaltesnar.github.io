@@ -31,7 +31,11 @@ ninja.data = [
               description: "{{ child.description | strip_html | strip_newlines | escape | strip }}",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "{{ url | relative_url }}";
+                {% if url contains '://' %}
+                  window.open("{{ url }}", "_blank");
+                {% else %}
+                  window.location.href = "{{ url | relative_url }}";
+                {% endif %}
               },
             },
           {%- endunless -%}
@@ -40,13 +44,25 @@ ninja.data = [
       {%- else -%}
         {
           {%- assign title = p.title | escape | strip -%}
-          {%- if p.permalink contains "/blog/" -%}{%- assign url = "/blog/" -%} {%- else -%}{%- assign url = p.url -%}{%- endif -%}
+          {%- if p.permalink contains '://' -%}
+            {%- assign url = p.permalink -%}
+          {%- elsif p.redirect contains '://' -%}
+            {%- assign url = p.redirect -%}
+          {%- elsif p.permalink contains "/blog/" -%}
+            {%- assign url = "/blog/" -%}
+          {%- else -%}
+            {%- assign url = p.url -%}
+          {%- endif -%}
           id: "nav-{{ title | slugify }}",
           title: "{{ title | truncatewords: 13 }}",
           description: "{{ p.description | strip_html | strip_newlines | escape | strip }}",
           section: "Navigation",
           handler: () => {
-            window.location.href = "{{ url | relative_url }}";
+            {% if url contains '://' %}
+              window.open("{{ url }}", "_blank");
+            {% else %}
+              window.location.href = "{{ url | relative_url }}";
+            {% endif %}
           },
         },
       {%- endif -%}

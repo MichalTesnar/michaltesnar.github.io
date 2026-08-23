@@ -10,4 +10,7 @@ children:
   - title: divider
   - title: diary
     permalink: /diary/
+  - title: divider
+  - title: github
+    permalink: https://github.com/MichalTesnar
 ---

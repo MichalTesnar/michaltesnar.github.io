@@ -97,6 +97,9 @@
                         <a
                           class="dropdown-item {% if page.title == child.title %}active{% endif %}"
                           href="{% if child.permalink contains '://' %}{{ child.permalink }}{% else %}{{ child.permalink | relative_url }}{% endif %}"
+                          {% if child.permalink contains '://' %}
+                            target="_blank" rel="noopener noreferrer"
+                          {% endif %}
                         >
                           {{- child.title -}}
                         </a>
@@ -109,12 +112,20 @@
                 <li class="nav-item {% if page.url contains parent_link %}active{% endif %}">
                   {%- if p.permalink contains '://' -%}
                     {%- assign url = p.permalink -%}
+                  {%- elsif p.redirect contains '://' -%}
+                    {%- assign url = p.redirect -%}
                   {%- elsif p.permalink contains '/blog/' -%}
                     {%- assign url = '/blog/' -%}
                   {%- else -%}
                     {%- assign url = p.url -%}
                   {%- endif %}
-                  <a class="nav-link" href="{{ url | relative_url }}">
+                  <a
+                    class="nav-link"
+                    href="{% if url contains '://' %}{{ url }}{% else %}{{ url | relative_url }}{% endif %}"
+                    {% if url contains '://' %}
+                      target="_blank" rel="noopener noreferrer"
+                    {% endif %}
+                  >
                     {{- p.title }}
                     {% if page.url contains p.url %}
                       <span class="sr-only">(current)</span>
