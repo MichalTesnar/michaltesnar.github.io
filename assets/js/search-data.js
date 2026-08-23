@@ -14,35 +14,54 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            
+              window.location.href = "/blog/";
+            
           },
         },{id: "nav-projects",
           title: "projects",
           description: "Selection of things that I did, and I am also proud of.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            
+              window.location.href = "/projects/";
+            
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "What I wrote, and somebody bothered to review.",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            
+              window.open("https://scholar.google.com/citations?user=uDXxG5EAAAAJ", "_blank");
+            
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/books/";
+                
+                  window.location.href = "/books/";
+                
               },
             },{id: "dropdown-diary",
               title: "diary",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/diary/";
+                
+                  window.location.href = "/diary/";
+                
+              },
+            },{id: "dropdown-github",
+              title: "github",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                
+                  window.open("https://github.com/MichalTesnar", "_blank");
+                
               },
             },{id: "books-what-is-life",
           title: 'What is Life?',
