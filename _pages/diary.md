@@ -11,7 +11,7 @@ pagination:
 <div class="post">
 
   <div class="header-bar">
-    <h1>Diary</h1>
+    <h1>diary</h1>
     <h2>What is happening in my personal life.</h2>
   </div>
 
