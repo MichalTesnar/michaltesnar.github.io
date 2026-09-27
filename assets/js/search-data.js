@@ -164,6 +164,11 @@ ninja.data = [{
           description: "Why you will not get what you want with high probability.",
           section: "Posts_blog",handler: () => {
               window.location.href = "/blog/2026/random-life/";
+            },},{id: "posts_blog-meaning-amp-morality-of-work",
+          title: 'Meaning &amp;amp; Morality of Work',
+          description: "Artificial intelligence might change the value of work in society.",
+          section: "Posts_blog",handler: () => {
+              window.location.href = "/blog/2026/morality-of-work/";
             },},{id: "posts_diary-domov-číslo-čtyři",
           title: 'Domov číslo čtyři',
           description: "A kde žiju teď? A s kým?",
