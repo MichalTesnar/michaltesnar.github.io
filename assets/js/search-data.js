@@ -294,6 +294,11 @@ ninja.data = [{
           description: "Všechno dobře dopadne.",
           section: "Posts_diary",handler: () => {
               window.location.href = "/blog/2026/clarity/";
+            },},{id: "posts_diary-nový-svět",
+          title: 'Nový svět',
+          description: "Jako Kryštof Kolumbus objevujeme nová teritoria...!",
+          section: "Posts_diary",handler: () => {
+              window.location.href = "/blog/2026/nov%C3%A9-%C3%BAzem%C3%AD/";
             },},{id: "projects-arc-agi-3-with-language-and-without",
           title: 'ARC-AGI-3 with Language and Without',
           description: "Is logical reasoning even possible without massive priors?",
