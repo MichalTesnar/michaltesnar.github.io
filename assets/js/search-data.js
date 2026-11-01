@@ -299,6 +299,11 @@ ninja.data = [{
           description: "Jako Kryštof Kolumbus objevujeme nová teritoria...!",
           section: "Posts_diary",handler: () => {
               window.location.href = "/blog/2026/nov%C3%A9-%C3%BAzem%C3%AD/";
+            },},{id: "posts_diary-latent-turbulent-flows-travelling-in-thought-space",
+          title: 'Latent Turbulent Flows: Travelling in Thought Space',
+          description: "Quo vadis?",
+          section: "Posts_diary",handler: () => {
+              window.location.href = "/blog/2026/where-you-going/";
             },},{id: "projects-arc-agi-3-with-language-and-without",
           title: 'ARC-AGI-3 with Language and Without',
           description: "Is logical reasoning even possible without massive priors?",
