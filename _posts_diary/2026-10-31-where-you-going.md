@@ -5,7 +5,7 @@ date: 2026-10-31 14:00:00
 description: Quo vadis?
 ---
 
-Sometimes it feels like when I tune in with the universe I happen to hear the same song, sang in many different ways. As if all the bridge ultimately cross the same river. Very often I ask myself, where do these roads lead?
+Sometimes it feels like when I tune in with the universe I happen to hear the same song, sung in many different ways. As if all the bridges ultimately cross the same river. Very often I ask myself, where do these roads lead?
 
 I was asked what my dreams are and told I should follow them, though it seems like it was not the exact whereabouts of my wishes that I would name but rather some deep wishes that I moved towards every day that have lead me where I am right now. As if the particular things were not meant to be, and others that I have not even been able to imagine at the time have materialized instead.
 
