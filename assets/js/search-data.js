@@ -304,6 +304,11 @@ ninja.data = [{
           description: "Quo vadis?",
           section: "Posts_diary",handler: () => {
               window.location.href = "/blog/2026/where-you-going/";
+            },},{id: "posts_diary-october-wednesday",
+          title: 'October Wednesday',
+          description: "What makes us really happy in life?",
+          section: "Posts_diary",handler: () => {
+              window.location.href = "/blog/2026/the-everyday/";
             },},{id: "projects-arc-agi-3-with-language-and-without",
           title: 'ARC-AGI-3 with Language and Without',
           description: "Is logical reasoning even possible without massive priors?",
