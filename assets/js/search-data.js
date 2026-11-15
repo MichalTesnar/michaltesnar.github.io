@@ -169,6 +169,11 @@ ninja.data = [{
           description: "Artificial intelligence might change the value of work in society.",
           section: "Posts_blog",handler: () => {
               window.location.href = "/blog/2026/morality-of-work/";
+            },},{id: "posts_blog-the-5th-dawn",
+          title: 'The 5th Dawn',
+          description: "My thesis about the near future.",
+          section: "Posts_blog",handler: () => {
+              window.location.href = "/blog/2026/the-5th-dawn/";
             },},{id: "posts_diary-domov-číslo-čtyři",
           title: 'Domov číslo čtyři',
           description: "A kde žiju teď? A s kým?",
