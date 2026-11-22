@@ -149,8 +149,8 @@ ninja.data = [{
           description: "And why I really do not want to be one ever again...",
           section: "Posts_blog",handler: () => {
               window.location.href = "/blog/2026/tourists/";
-            },},{id: "posts_blog-needlesly-clever-when-learned-skills-suddenly-expire",
-          title: 'Needlesly Clever: When Learned Skills Suddenly Expire',
+            },},{id: "posts_blog-needlessly-clever-when-learned-skills-suddenly-expire",
+          title: 'Needlessly Clever: When Learned Skills Suddenly Expire',
           description: "`Claude &#39;give me back my future&#39;`",
           section: "Posts_blog",handler: () => {
               window.location.href = "/blog/2026/claude-future/";
