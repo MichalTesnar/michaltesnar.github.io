@@ -314,6 +314,11 @@ ninja.data = [{
           description: "What makes us really happy in life?",
           section: "Posts_diary",handler: () => {
               window.location.href = "/blog/2026/the-everyday/";
+            },},{id: "posts_diary-cheers-to-the-ones-that-we-got",
+          title: 'Cheers to the ones that we got!',
+          description: "Sharing is caring :)",
+          section: "Posts_diary",handler: () => {
+              window.location.href = "/blog/2026/cheers-to-the-ones-you-got/";
             },},{id: "projects-arc-agi-3-with-language-and-without",
           title: 'ARC-AGI-3 with Language and Without',
           description: "Is logical reasoning even possible without massive priors?",
