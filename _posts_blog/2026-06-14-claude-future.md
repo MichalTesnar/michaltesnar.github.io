@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Needlesly Clever: When Learned Skills Suddenly Expire"
+title: "Needlessly Clever: When Learned Skills Suddenly Expire"
 date: 2026-06-14 14:00:00
 description: "`Claude 'give me back my future'`"
 ---
